@@ -1,0 +1,35 @@
+node_name,total_word_count,average_sentiment
+A Young Lucas,31,-0.1486
+Mrs. Bennet,6098,0.31042847222222225
+Mrs. Philips,82,0.4939
+Mr. Bennet,3214,0.21148039215686276
+Mr. Darcy,3820,0.31558125000000004
+Miss Bingley,1658,0.309146
+Miss Darcy,0,0.0
+Mr. Philips,0,0.0
+Sir William Lucas,379,0.5408181818181818
+Miss De Bourgh,0,0.0
+Charlotte Lucas,896,0.5589
+Mr. Collins,3371,0.7434421052631578
+Jane,3611,0.20934183673469384
+Mrs. Hill,59,0.65455
+Mrs. Hurst,132,0.34822
+Butler,15,0.0
+Lydia,1911,0.2833212121212121
+Mrs. Jenkinson,0,0.0
+George Wickham,2058,0.3742119047619048
+Sarah,0,0.0
+Mrs. Reynolds,424,0.41757142857142854
+Lady Lucas,0,0.0
+Lady Catherine De Bourgh,2355,0.23173090909090904
+Mr. Bingley,956,0.25471142857142853
+Mr. Denney,24,0.4567
+Maria,137,0.48934
+Mr. Hurst,12,0.25475
+Elizabeth,13726,0.19276583541147135
+Mrs. Gardiner,1085,0.3214264705882353
+Mr. Gardiner,458,0.1393666666666666
+Mary,337,0.32751428571428576
+Anne De Bourgh,0,0.0
+Kitty,146,0.4063875
+Colonel Fitzwilliam,506,0.24821111111111113

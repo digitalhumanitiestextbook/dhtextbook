@@ -1,0 +1,3048 @@
+source,target,word_count,sentiment
+Mrs. Bennet,Mr. Bennet,14,0.3818
+Mrs. Bennet,Mr. Bennet,17,0.0
+Mrs. Bennet,Mr. Bennet,10,-0.0572
+Mr. Bennet,Mrs. Bennet,13,-0.2263
+Mrs. Bennet,Mr. Bennet,79,0.8062
+Mr. Bennet,Mrs. Bennet,4,0.0
+Mrs. Bennet,Mr. Bennet,1,0.0
+Mr. Bennet,Mrs. Bennet,5,0.0
+Mrs. Bennet,Mr. Bennet,26,0.7633
+Mr. Bennet,Mrs. Bennet,7,0.0
+Mrs. Bennet,Mr. Bennet,23,0.4389
+Mr. Bennet,Mrs. Bennet,7,0.0
+Mrs. Bennet,Mr. Bennet,33,0.7604
+Mr. Bennet,Mrs. Bennet,45,0.9231
+Mrs. Bennet,Mr. Bennet,42,0.9071
+Mr. Bennet,Mrs. Bennet,13,-0.4717
+Mrs. Bennet,Mr. Bennet,17,0.5267
+Mr. Bennet,Mrs. Bennet,10,0.6222
+Mrs. Bennet,Mr. Bennet,57,0.0772
+Mr. Bennet,Mrs. Bennet,55,0.908
+Mrs. Bennet,Mr. Bennet,44,0.8366
+Mr. Bennet,Mrs. Bennet,28,0.25
+Mrs. Bennet,Mr. Bennet,27,-0.7184
+Mr. Bennet,Mrs. Bennet,31,0.7184
+Mrs. Bennet,Mr. Bennet,8,0.484
+Mr. Bennet,Mrs. Bennet,24,0.5927
+Mrs. Bennet,Mr. Bennet,18,-0.296
+Mr. Bennet,Mrs. Bennet,15,0.3818
+Mr. Bennet,Mary,8,0.6597
+Mr. Bennet,Elizabeth,8,0.6597
+Mr. Bennet,Lydia,8,0.6597
+Mr. Bennet,Mrs. Bennet,8,0.6597
+Mr. Bennet,Kitty,8,0.6597
+Mrs. Bennet,Mary,18,0.4215
+Mrs. Bennet,Elizabeth,18,0.4215
+Mrs. Bennet,Lydia,18,0.4215
+Mrs. Bennet,Kitty,18,0.4215
+Mrs. Bennet,Mr. Bennet,18,0.4215
+Elizabeth,Mary,21,0.2263
+Elizabeth,Mrs. Bennet,21,0.2263
+Elizabeth,Lydia,21,0.2263
+Elizabeth,Kitty,21,0.2263
+Elizabeth,Mr. Bennet,21,0.2263
+Mrs. Bennet,Mary,31,-0.8074
+Mrs. Bennet,Elizabeth,31,-0.8074
+Mrs. Bennet,Lydia,31,-0.8074
+Mrs. Bennet,Kitty,31,-0.8074
+Mrs. Bennet,Mr. Bennet,31,-0.8074
+Mr. Bennet,Mary,19,0.2023
+Mr. Bennet,Elizabeth,19,0.2023
+Mr. Bennet,Lydia,19,0.2023
+Mr. Bennet,Mrs. Bennet,19,0.2023
+Mr. Bennet,Kitty,19,0.2023
+Mrs. Bennet,Mary,20,0.3816
+Mrs. Bennet,Elizabeth,20,0.3816
+Mrs. Bennet,Lydia,20,0.3816
+Mrs. Bennet,Kitty,20,0.3816
+Mrs. Bennet,Mr. Bennet,20,0.3816
+Mr. Bennet,Mary,11,-0.6124
+Mr. Bennet,Elizabeth,11,-0.6124
+Mr. Bennet,Lydia,11,-0.6124
+Mr. Bennet,Mrs. Bennet,11,-0.6124
+Mr. Bennet,Kitty,11,-0.6124
+Kitty,Mary,8,0.3612
+Kitty,Elizabeth,8,0.3612
+Kitty,Lydia,8,0.3612
+Kitty,Mrs. Bennet,8,0.3612
+Kitty,Mr. Bennet,8,0.3612
+Elizabeth,Mary,2,0.0
+Elizabeth,Mrs. Bennet,2,0.0
+Elizabeth,Lydia,2,0.0
+Elizabeth,Kitty,2,0.0
+Elizabeth,Mr. Bennet,2,0.0
+Mrs. Bennet,Mary,32,0.0
+Mrs. Bennet,Elizabeth,32,0.0
+Mrs. Bennet,Lydia,32,0.0
+Mrs. Bennet,Kitty,32,0.0
+Mrs. Bennet,Mr. Bennet,32,0.0
+Mr. Bennet,Mary,17,0.7783
+Mr. Bennet,Elizabeth,17,0.7783
+Mr. Bennet,Lydia,17,0.7783
+Mr. Bennet,Mrs. Bennet,17,0.7783
+Mr. Bennet,Kitty,17,0.7783
+Mrs. Bennet,Mary,18,0.0
+Mrs. Bennet,Elizabeth,18,0.0
+Mrs. Bennet,Lydia,18,0.0
+Mrs. Bennet,Kitty,18,0.0
+Mrs. Bennet,Mr. Bennet,18,0.0
+Mr. Bennet,Mary,68,0.8608
+Mr. Bennet,Elizabeth,68,0.8608
+Mr. Bennet,Lydia,68,0.8608
+Mr. Bennet,Mrs. Bennet,68,0.8608
+Mr. Bennet,Kitty,68,0.8608
+Mrs. Bennet,Mary,2,-0.69
+Mrs. Bennet,Elizabeth,2,-0.69
+Mrs. Bennet,Lydia,2,-0.69
+Mrs. Bennet,Kitty,2,-0.69
+Mrs. Bennet,Mr. Bennet,2,-0.69
+Mr. Bennet,Mary,55,-0.5051
+Mr. Bennet,Elizabeth,55,-0.5051
+Mr. Bennet,Lydia,55,-0.5051
+Mr. Bennet,Mrs. Bennet,55,-0.5051
+Mr. Bennet,Kitty,55,-0.5051
+Mr. Bennet,Mary,12,0.0
+Mr. Bennet,Elizabeth,12,0.0
+Mr. Bennet,Lydia,12,0.0
+Mr. Bennet,Mrs. Bennet,12,0.0
+Mr. Bennet,Kitty,12,0.0
+Mrs. Bennet,Mary,6,-0.5106
+Mrs. Bennet,Elizabeth,6,-0.5106
+Mrs. Bennet,Lydia,6,-0.5106
+Mrs. Bennet,Kitty,6,-0.5106
+Mrs. Bennet,Mr. Bennet,6,-0.5106
+Mr. Bennet,Mary,49,0.2899
+Mr. Bennet,Elizabeth,49,0.2899
+Mr. Bennet,Lydia,49,0.2899
+Mr. Bennet,Mrs. Bennet,49,0.2899
+Mrs. Bennet,Mary,62,0.9733
+Mrs. Bennet,Elizabeth,62,0.9733
+Mrs. Bennet,Lydia,62,0.9733
+Mrs. Bennet,Mr. Bennet,62,0.9733
+Mr. Bennet,Mary,10,0.0
+Mr. Bennet,Elizabeth,10,0.0
+Mr. Bennet,Lydia,10,0.0
+Mr. Bennet,Mrs. Bennet,10,0.0
+Mr. Bennet,Kitty,10,0.0
+Mrs. Bennet,Mary,78,0.8402
+Mrs. Bennet,Elizabeth,78,0.8402
+Mrs. Bennet,Lydia,78,0.8402
+Mrs. Bennet,Kitty,78,0.8402
+Lydia,Mary,14,0.0
+Lydia,Elizabeth,14,0.0
+Lydia,Mrs. Bennet,14,0.0
+Lydia,Kitty,14,0.0
+Mrs. Bennet,Mr. Bennet,27,0.6871
+Mr. Bingley,Mr. Darcy,25,-0.7003
+Mr. Darcy,Mr. Bingley,54,0.7736
+Mr. Bingley,Mr. Darcy,41,0.895
+Mr. Darcy,Mr. Bingley,11,0.4939
+Mr. Bingley,Mr. Darcy,41,0.9195
+Mr. Darcy,Mr. Bingley,53,0.8252
+Mrs. Bennet,Mr. Bennet,5,0.4389
+Mrs. Bennet,Mr. Bennet,166,0.5524
+Mr. Bennet,Mrs. Bennet,36,0.3971
+Mrs. Bennet,Mr. Bennet,42,0.9549
+Mrs. Bennet,Mr. Bennet,80,0.8453
+Jane,Elizabeth,28,0.9272
+Elizabeth,Jane,21,0.4939
+Jane,Elizabeth,21,0.0835
+Elizabeth,Jane,82,0.9891
+Jane,Elizabeth,2,0.4389
+Elizabeth,Jane,46,0.9011
+Jane,Elizabeth,18,0.2144
+Elizabeth,Jane,84,0.8934
+Jane,Elizabeth,43,-0.4298
+Mrs. Bennet,Mary,12,0.2732
+Mrs. Bennet,Elizabeth,12,0.2732
+Mrs. Bennet,A Young Lucas,12,0.2732
+Mrs. Bennet,Lydia,12,0.2732
+Mrs. Bennet,Charlotte Lucas,12,0.2732
+Mrs. Bennet,Kitty,12,0.2732
+Mrs. Bennet,Jane,12,0.2732
+Mrs. Bennet,Maria,12,0.2732
+Charlotte Lucas,Mary,8,0.6597
+Charlotte Lucas,Elizabeth,8,0.6597
+Charlotte Lucas,Lydia,8,0.6597
+Charlotte Lucas,Mrs. Bennet,8,0.6597
+Charlotte Lucas,A Young Lucas,8,0.6597
+Charlotte Lucas,Kitty,8,0.6597
+Charlotte Lucas,Jane,8,0.6597
+Charlotte Lucas,Maria,8,0.6597
+Mrs. Bennet,Mary,37,0.7088
+Mrs. Bennet,Elizabeth,37,0.7088
+Mrs. Bennet,A Young Lucas,37,0.7088
+Mrs. Bennet,Lydia,37,0.7088
+Mrs. Bennet,Charlotte Lucas,37,0.7088
+Mrs. Bennet,Kitty,37,0.7088
+Mrs. Bennet,Jane,37,0.7088
+Mrs. Bennet,Maria,37,0.7088
+Charlotte Lucas,Mary,73,0.9072
+Charlotte Lucas,Elizabeth,73,0.9072
+Charlotte Lucas,Lydia,73,0.9072
+Charlotte Lucas,Mrs. Bennet,73,0.9072
+Charlotte Lucas,A Young Lucas,73,0.9072
+Charlotte Lucas,Kitty,73,0.9072
+Charlotte Lucas,Jane,73,0.9072
+Charlotte Lucas,Maria,73,0.9072
+Mrs. Bennet,Mary,21,0.0
+Mrs. Bennet,Elizabeth,21,0.0
+Mrs. Bennet,A Young Lucas,21,0.0
+Mrs. Bennet,Lydia,21,0.0
+Mrs. Bennet,Charlotte Lucas,21,0.0
+Mrs. Bennet,Kitty,21,0.0
+Mrs. Bennet,Jane,21,0.0
+Mrs. Bennet,Maria,21,0.0
+Charlotte Lucas,Mary,29,0.0853
+Charlotte Lucas,Elizabeth,29,0.0853
+Charlotte Lucas,Lydia,29,0.0853
+Charlotte Lucas,Mrs. Bennet,29,0.0853
+Charlotte Lucas,A Young Lucas,29,0.0853
+Charlotte Lucas,Kitty,29,0.0853
+Charlotte Lucas,Jane,29,0.0853
+Charlotte Lucas,Maria,29,0.0853
+Mrs. Bennet,Mary,56,0.0258
+Mrs. Bennet,Elizabeth,56,0.0258
+Mrs. Bennet,Lydia,56,0.0258
+Mrs. Bennet,Charlotte Lucas,56,0.0258
+Mrs. Bennet,Kitty,56,0.0258
+Mrs. Bennet,Jane,56,0.0258
+Mrs. Bennet,Maria,56,0.0258
+Jane,Mary,18,0.709
+Jane,Elizabeth,18,0.709
+Jane,A Young Lucas,18,0.709
+Jane,Lydia,18,0.709
+Jane,Charlotte Lucas,18,0.709
+Jane,Kitty,18,0.709
+Jane,Maria,18,0.709
+Mrs. Bennet,Mary,27,-0.468
+Mrs. Bennet,Elizabeth,27,-0.468
+Mrs. Bennet,A Young Lucas,27,-0.468
+Mrs. Bennet,Lydia,27,-0.468
+Mrs. Bennet,Charlotte Lucas,27,-0.468
+Mrs. Bennet,Kitty,27,-0.468
+Mrs. Bennet,Jane,27,-0.468
+Mrs. Bennet,Maria,27,-0.468
+Jane,Mary,4,-0.1531
+Jane,Elizabeth,4,-0.1531
+Jane,Lydia,4,-0.1531
+Jane,Mrs. Bennet,4,-0.1531
+Jane,Charlotte Lucas,4,-0.1531
+Jane,Kitty,4,-0.1531
+Jane,A Young Lucas,4,-0.1531
+Jane,Jane,4,-0.1531
+Jane,Maria,4,-0.1531
+Jane,Mary,16,0.4754
+Jane,Elizabeth,16,0.4754
+Jane,Lydia,16,0.4754
+Jane,Mrs. Bennet,16,0.4754
+Jane,Charlotte Lucas,16,0.4754
+Jane,Kitty,16,0.4754
+Jane,A Young Lucas,16,0.4754
+Jane,Maria,16,0.4754
+Mrs. Bennet,Mary,67,0.7257
+Mrs. Bennet,Elizabeth,67,0.7257
+Mrs. Bennet,A Young Lucas,67,0.7257
+Mrs. Bennet,Lydia,67,0.7257
+Mrs. Bennet,Charlotte Lucas,67,0.7257
+Mrs. Bennet,Kitty,67,0.7257
+Mrs. Bennet,Jane,67,0.7257
+Mrs. Bennet,Maria,67,0.7257
+Charlotte Lucas,Mary,18,0.5499
+Charlotte Lucas,Elizabeth,18,0.5499
+Charlotte Lucas,Lydia,18,0.5499
+Charlotte Lucas,Mrs. Bennet,18,0.5499
+Charlotte Lucas,A Young Lucas,18,0.5499
+Charlotte Lucas,Kitty,18,0.5499
+Charlotte Lucas,Jane,18,0.5499
+Charlotte Lucas,Maria,18,0.5499
+Mrs. Bennet,Mary,13,0.0
+Mrs. Bennet,Elizabeth,13,0.0
+Mrs. Bennet,A Young Lucas,13,0.0
+Mrs. Bennet,Lydia,13,0.0
+Mrs. Bennet,Charlotte Lucas,13,0.0
+Mrs. Bennet,Kitty,13,0.0
+Mrs. Bennet,Jane,13,0.0
+Mrs. Bennet,Maria,13,0.0
+Elizabeth,Mary,13,0.6705
+Elizabeth,Mrs. Bennet,13,0.6705
+Elizabeth,Lydia,13,0.6705
+Elizabeth,Charlotte Lucas,13,0.6705
+Elizabeth,A Young Lucas,13,0.6705
+Elizabeth,Kitty,13,0.6705
+Elizabeth,Jane,13,0.6705
+Elizabeth,Maria,13,0.6705
+Charlotte Lucas,Mary,55,0.924
+Charlotte Lucas,Elizabeth,55,0.924
+Charlotte Lucas,Lydia,55,0.924
+Charlotte Lucas,Mrs. Bennet,55,0.924
+Charlotte Lucas,A Young Lucas,55,0.924
+Charlotte Lucas,Kitty,55,0.924
+Charlotte Lucas,Jane,55,0.924
+Charlotte Lucas,Maria,55,0.924
+Elizabeth,Mary,17,0.8399
+Elizabeth,Mrs. Bennet,17,0.8399
+Elizabeth,Lydia,17,0.8399
+Elizabeth,Charlotte Lucas,17,0.8399
+Elizabeth,A Young Lucas,17,0.8399
+Elizabeth,Kitty,17,0.8399
+Elizabeth,Jane,17,0.8399
+Elizabeth,Maria,17,0.8399
+Mary,Elizabeth,98,0.6597
+Mary,Lydia,98,0.6597
+Mary,Mrs. Bennet,98,0.6597
+Mary,Charlotte Lucas,98,0.6597
+Mary,Kitty,98,0.6597
+Mary,A Young Lucas,98,0.6597
+Mary,Jane,98,0.6597
+Mary,Maria,98,0.6597
+A Young Lucas,Mary,31,-0.1486
+A Young Lucas,Elizabeth,31,-0.1486
+A Young Lucas,Lydia,31,-0.1486
+A Young Lucas,Mrs. Bennet,31,-0.1486
+A Young Lucas,Charlotte Lucas,31,-0.1486
+A Young Lucas,Kitty,31,-0.1486
+A Young Lucas,Jane,31,-0.1486
+A Young Lucas,Maria,31,-0.1486
+Mrs. Bennet,Mary,27,0.6249
+Mrs. Bennet,Elizabeth,27,0.6249
+Mrs. Bennet,A Young Lucas,27,0.6249
+Mrs. Bennet,Lydia,27,0.6249
+Mrs. Bennet,Charlotte Lucas,27,0.6249
+Mrs. Bennet,Kitty,27,0.6249
+Mrs. Bennet,Jane,27,0.6249
+Mrs. Bennet,Maria,27,0.6249
+Charlotte Lucas,Elizabeth,154,0.9714
+Elizabeth,Charlotte Lucas,32,0.7096
+Charlotte Lucas,Elizabeth,12,0.0
+Elizabeth,Charlotte Lucas,21,0.0
+Charlotte Lucas,Elizabeth,83,0.9109
+Elizabeth,Charlotte Lucas,113,0.943
+Charlotte Lucas,Elizabeth,41,0.8225
+Elizabeth,Charlotte Lucas,34,0.8271
+Charlotte Lucas,Elizabeth,115,0.9775
+Elizabeth,Charlotte Lucas,26,0.3182
+Elizabeth,Charlotte Lucas,13,0.0
+Charlotte Lucas,Elizabeth,10,0.0
+Elizabeth,Charlotte Lucas,43,0.545
+Elizabeth,Mr. Darcy,27,0.2732
+Elizabeth,Charlotte Lucas,27,0.2732
+Mr. Darcy,Elizabeth,13,0.7906
+Mr. Darcy,Charlotte Lucas,13,0.7906
+Elizabeth,Mr. Darcy,5,-0.3818
+Elizabeth,Charlotte Lucas,5,-0.3818
+Charlotte Lucas,Mr. Darcy,22,0.0
+Charlotte Lucas,Elizabeth,22,0.0
+Elizabeth,Mr. Darcy,98,0.941
+Elizabeth,Charlotte Lucas,98,0.941
+Sir William Lucas,Mr. Darcy,28,0.6686
+Mr. Darcy,Sir William Lucas,22,0.1027
+Sir William Lucas,Mr. Darcy,19,0.6597
+Mr. Darcy,Sir William Lucas,9,0.0
+Sir William Lucas,Mr. Darcy,17,0.6369
+Mr. Darcy,Sir William Lucas,2,0.0
+Sir William Lucas,Mr. Darcy,13,0.4767
+Mr. Darcy,Sir William Lucas,16,0.2951
+Sir William Lucas,Mr. Darcy,8,0.0
+Sir William Lucas,Mr. Darcy,33,0.5999
+Sir William Lucas,Mr. Darcy,40,0.9146
+Sir William Lucas,Elizabeth,40,0.9146
+Elizabeth,Sir William Lucas,27,0.0
+Elizabeth,Mr. Darcy,27,0.0
+Sir William Lucas,Mr. Darcy,45,-0.0772
+Sir William Lucas,Elizabeth,45,-0.0772
+Elizabeth,Sir William Lucas,5,0.0
+Elizabeth,Mr. Darcy,5,0.0
+Sir William Lucas,Mr. Darcy,24,0.25
+Sir William Lucas,Elizabeth,24,0.25
+Miss Bingley,Mr. Darcy,8,0.0
+Mr. Darcy,Miss Bingley,4,0.0
+Miss Bingley,Mr. Darcy,55,0.5068
+Mr. Darcy,Miss Bingley,38,0.9554
+Mr. Darcy,Miss Bingley,3,-0.1531
+Miss Bingley,Mr. Darcy,23,0.8339
+Mr. Darcy,Miss Bingley,38,0.9559
+Miss Bingley,Mr. Darcy,34,0.4869
+Mr. Bennet,Elizabeth,33,0.5423
+Mr. Bennet,Lydia,33,0.5423
+Mr. Bennet,Mrs. Bennet,33,0.5423
+Mr. Bennet,Kitty,33,0.5423
+Mr. Bennet,Jane,33,0.5423
+Mrs. Bennet,Elizabeth,35,0.8196
+Mrs. Bennet,Lydia,35,0.8196
+Mrs. Bennet,Kitty,35,0.8196
+Mrs. Bennet,Jane,35,0.8196
+Mrs. Bennet,Mr. Bennet,35,0.8196
+Mr. Bennet,Elizabeth,14,0.4588
+Mr. Bennet,Lydia,14,0.4588
+Mr. Bennet,Mrs. Bennet,14,0.4588
+Mr. Bennet,Kitty,14,0.4588
+Mr. Bennet,Jane,14,0.4588
+Mrs. Bennet,Elizabeth,11,0.5095
+Mrs. Bennet,Lydia,11,0.5095
+Mrs. Bennet,Kitty,11,0.5095
+Mrs. Bennet,Jane,11,0.5095
+Mrs. Bennet,Mr. Bennet,11,0.5095
+Mr. Bennet,Elizabeth,41,-0.5569
+Mr. Bennet,Lydia,41,-0.5569
+Mr. Bennet,Mrs. Bennet,41,-0.5569
+Mr. Bennet,Kitty,41,-0.5569
+Mr. Bennet,Jane,41,-0.5569
+Mrs. Bennet,Elizabeth,102,0.8126
+Mrs. Bennet,Lydia,102,0.8126
+Mrs. Bennet,Kitty,102,0.8126
+Mrs. Bennet,Jane,102,0.8126
+Mrs. Bennet,Mr. Bennet,102,0.8126
+Lydia,Elizabeth,35,-0.2177
+Lydia,Mrs. Bennet,35,-0.2177
+Lydia,Kitty,35,-0.2177
+Lydia,Jane,35,-0.2177
+Lydia,Mr. Bennet,35,-0.2177
+Mrs. Bennet,Elizabeth,25,0.8377
+Mrs. Bennet,Lydia,25,0.8377
+Mrs. Bennet,Kitty,25,0.8377
+Mrs. Bennet,Jane,25,0.8377
+Mrs. Bennet,Mr. Bennet,25,0.8377
+Jane,Elizabeth,5,-0.1531
+Jane,Lydia,5,-0.1531
+Jane,Mrs. Bennet,5,-0.1531
+Jane,Kitty,5,-0.1531
+Jane,Mr. Bennet,5,-0.1531
+Lydia,Elizabeth,13,0.0
+Lydia,Mrs. Bennet,13,0.0
+Lydia,Kitty,13,0.0
+Lydia,Jane,13,0.0
+Lydia,Mr. Bennet,13,0.0
+Mrs. Bennet,Elizabeth,6,0.0
+Mrs. Bennet,Lydia,6,0.0
+Mrs. Bennet,Kitty,6,0.0
+Mrs. Bennet,Jane,6,0.0
+Mrs. Bennet,Mr. Bennet,6,0.0
+Jane,Elizabeth,5,0.0
+Jane,Lydia,5,0.0
+Jane,Mrs. Bennet,5,0.0
+Jane,Kitty,5,0.0
+Jane,Mr. Bennet,5,0.0
+Mrs. Bennet,Elizabeth,22,0.5106
+Mrs. Bennet,Lydia,22,0.5106
+Mrs. Bennet,Kitty,22,0.5106
+Mrs. Bennet,Jane,22,0.5106
+Mrs. Bennet,Mr. Bennet,22,0.5106
+Elizabeth,Lydia,19,0.6369
+Elizabeth,Mrs. Bennet,19,0.6369
+Elizabeth,Kitty,19,0.6369
+Elizabeth,Jane,19,0.6369
+Elizabeth,Mr. Bennet,19,0.6369
+Mrs. Bennet,Elizabeth,21,-0.4753
+Mrs. Bennet,Lydia,21,-0.4753
+Mrs. Bennet,Kitty,21,-0.4753
+Mrs. Bennet,Jane,21,-0.4753
+Mrs. Bennet,Mr. Bennet,21,-0.4753
+Jane,Elizabeth,8,0.0
+Jane,Lydia,8,0.0
+Jane,Mrs. Bennet,8,0.0
+Jane,Kitty,8,0.0
+Jane,Mr. Bennet,8,0.0
+Mrs. Bennet,Elizabeth,23,0.7469
+Mrs. Bennet,Lydia,23,0.7469
+Mrs. Bennet,Kitty,23,0.7469
+Mrs. Bennet,Jane,23,0.7469
+Mrs. Bennet,Mr. Bennet,23,0.7469
+Mr. Bennet,Elizabeth,13,0.0
+Mr. Bennet,Lydia,13,0.0
+Mr. Bennet,Mrs. Bennet,13,0.0
+Mr. Bennet,Kitty,13,0.0
+Mr. Bennet,Jane,13,0.0
+Elizabeth,Lydia,13,0.0
+Elizabeth,Mrs. Bennet,13,0.0
+Elizabeth,Kitty,13,0.0
+Elizabeth,Jane,13,0.0
+Elizabeth,Mr. Bennet,13,0.0
+Mr. Bennet,Mary,37,-0.25
+Mr. Bennet,Elizabeth,37,-0.25
+Mr. Bennet,Lydia,37,-0.25
+Mr. Bennet,Mrs. Bennet,37,-0.25
+Mr. Bennet,Kitty,37,-0.25
+Mrs. Bennet,Mary,48,0.8986
+Mrs. Bennet,Elizabeth,48,0.8986
+Mrs. Bennet,Lydia,48,0.8986
+Mrs. Bennet,Kitty,48,0.8986
+Mrs. Bennet,Mr. Bennet,48,0.8986
+Mrs. Bennet,Mary,29,-0.5663
+Mrs. Bennet,Elizabeth,29,-0.5663
+Mrs. Bennet,Lydia,29,-0.5663
+Mrs. Bennet,Kitty,29,-0.5663
+Mrs. Bennet,Mr. Bennet,29,-0.5663
+Elizabeth,Mary,12,0.4754
+Elizabeth,Lydia,12,0.4754
+Elizabeth,Mrs. Bennet,12,0.4754
+Elizabeth,Kitty,12,0.4754
+Elizabeth,Mr. Bennet,12,0.4754
+Mr. Bennet,Mary,12,0.0
+Mr. Bennet,Elizabeth,12,0.0
+Mr. Bennet,Lydia,12,0.0
+Mr. Bennet,Mrs. Bennet,12,0.0
+Mr. Bennet,Kitty,12,0.0
+Elizabeth,Mary,28,-0.3757
+Elizabeth,Lydia,28,-0.3757
+Elizabeth,Mrs. Bennet,28,-0.3757
+Elizabeth,Kitty,28,-0.3757
+Elizabeth,Mr. Bennet,28,-0.3757
+Mary,Elizabeth,31,0.5647
+Mary,Lydia,31,0.5647
+Mary,Mrs. Bennet,31,0.5647
+Mary,Kitty,31,0.5647
+Mary,Mr. Bennet,31,0.5647
+Lydia,Elizabeth,15,0.0
+Lydia,Kitty,15,0.0
+Mrs. Hurst,Mr. Darcy,26,0.8316
+Mrs. Hurst,Mr. Bingley,26,0.8316
+Mrs. Hurst,Mr. Hurst,26,0.8316
+Mrs. Hurst,Miss Bingley,26,0.8316
+Miss Bingley,Mr. Darcy,36,0.0
+Miss Bingley,Mrs. Hurst,36,0.0
+Miss Bingley,Mr. Bingley,36,0.0
+Miss Bingley,Mr. Hurst,36,0.0
+Mrs. Hurst,Mr. Darcy,34,0.7425
+Mrs. Hurst,Mr. Bingley,34,0.7425
+Mrs. Hurst,Mr. Hurst,34,0.7425
+Mrs. Hurst,Miss Bingley,34,0.7425
+Mr. Bingley,Mr. Darcy,37,-0.6819
+Mr. Bingley,Mrs. Hurst,37,-0.6819
+Mr. Bingley,Mr. Hurst,37,-0.6819
+Mr. Bingley,Miss Bingley,37,-0.6819
+Miss Bingley,Mr. Darcy,27,0.0108
+Miss Bingley,Mrs. Hurst,27,0.0108
+Miss Bingley,Mr. Bingley,27,0.0108
+Miss Bingley,Mr. Hurst,27,0.0108
+Mr. Darcy,Mrs. Hurst,2,0.34
+Mr. Darcy,Mr. Bingley,2,0.34
+Mr. Darcy,Mr. Hurst,2,0.34
+Mr. Darcy,Miss Bingley,2,0.34
+Miss Bingley,Mr. Darcy,48,-0.7316
+Miss Bingley,Mrs. Hurst,48,-0.7316
+Miss Bingley,Mr. Bingley,48,-0.7316
+Miss Bingley,Mr. Hurst,48,-0.7316
+Mr. Bingley,Mr. Darcy,11,0.796
+Mr. Bingley,Mrs. Hurst,11,0.796
+Mr. Bingley,Mr. Hurst,11,0.796
+Mr. Bingley,Miss Bingley,11,0.796
+Miss Bingley,Mr. Darcy,17,0.745
+Mr. Darcy,Mrs. Hurst,9,0.4767
+Mr. Darcy,Mr. Bingley,9,0.4767
+Mr. Darcy,Mr. Hurst,9,0.4767
+Mr. Darcy,Miss Bingley,9,0.4767
+Mrs. Hurst,Mr. Darcy,46,0.1866
+Mrs. Hurst,Mr. Bingley,46,0.1866
+Mrs. Hurst,Mr. Hurst,46,0.1866
+Mrs. Hurst,Miss Bingley,46,0.1866
+Miss Bingley,Mr. Darcy,15,0.0
+Miss Bingley,Mrs. Hurst,15,0.0
+Miss Bingley,Mr. Bingley,15,0.0
+Miss Bingley,Mr. Hurst,15,0.0
+Mrs. Hurst,Mr. Darcy,10,0.4019
+Mrs. Hurst,Mr. Bingley,10,0.4019
+Mrs. Hurst,Mr. Hurst,10,0.4019
+Mrs. Hurst,Miss Bingley,10,0.4019
+Miss Bingley,Mr. Darcy,3,0.0
+Miss Bingley,Mrs. Hurst,3,0.0
+Miss Bingley,Mr. Bingley,3,0.0
+Miss Bingley,Mr. Hurst,3,0.0
+Mr. Bingley,Mr. Darcy,18,0.3626
+Mr. Bingley,Mrs. Hurst,18,0.3626
+Mr. Bingley,Mr. Hurst,18,0.3626
+Mr. Bingley,Miss Bingley,18,0.3626
+Mr. Darcy,Mrs. Hurst,17,0.3612
+Mr. Darcy,Mr. Bingley,17,0.3612
+Mr. Darcy,Mr. Hurst,17,0.3612
+Mr. Darcy,Miss Bingley,17,0.3612
+Mr. Hurst,Mr. Darcy,10,0.0
+Mr. Hurst,Elizabeth,10,0.0
+Mr. Hurst,Mrs. Hurst,10,0.0
+Mr. Hurst,Mr. Bingley,10,0.0
+Mr. Hurst,Miss Bingley,10,0.0
+Miss Bingley,Mr. Darcy,17,0.4588
+Miss Bingley,Elizabeth,17,0.4588
+Miss Bingley,Mrs. Hurst,17,0.4588
+Miss Bingley,Mr. Bingley,17,0.4588
+Miss Bingley,Mr. Hurst,17,0.4588
+Elizabeth,Mr. Darcy,21,0.7074
+Elizabeth,Mrs. Hurst,21,0.7074
+Elizabeth,Mr. Bingley,21,0.7074
+Elizabeth,Mr. Hurst,21,0.7074
+Elizabeth,Miss Bingley,21,0.7074
+Mr. Bingley,Mr. Darcy,23,0.908
+Mr. Bingley,Elizabeth,23,0.908
+Mr. Bingley,Mrs. Hurst,23,0.908
+Mr. Bingley,Mr. Hurst,23,0.908
+Mr. Bingley,Miss Bingley,23,0.908
+Mr. Bingley,Mr. Darcy,34,0.5647
+Mr. Bingley,Elizabeth,34,0.5647
+Mr. Bingley,Mrs. Hurst,34,0.5647
+Mr. Bingley,Mr. Hurst,34,0.5647
+Mr. Bingley,Miss Bingley,34,0.5647
+Miss Bingley,Mr. Darcy,24,0.7712
+Miss Bingley,Elizabeth,24,0.7712
+Miss Bingley,Mrs. Hurst,24,0.7712
+Miss Bingley,Mr. Bingley,24,0.7712
+Miss Bingley,Mr. Hurst,24,0.7712
+Mr. Darcy,Elizabeth,13,0.4404
+Mr. Darcy,Mrs. Hurst,13,0.4404
+Mr. Darcy,Mr. Bingley,13,0.4404
+Mr. Darcy,Mr. Hurst,13,0.4404
+Mr. Darcy,Miss Bingley,13,0.4404
+Miss Bingley,Mr. Darcy,15,0.0
+Miss Bingley,Elizabeth,15,0.0
+Miss Bingley,Mrs. Hurst,15,0.0
+Miss Bingley,Mr. Bingley,15,0.0
+Miss Bingley,Mr. Hurst,15,0.0
+Mr. Darcy,Elizabeth,14,0.357
+Mr. Darcy,Mrs. Hurst,14,0.357
+Mr. Darcy,Mr. Bingley,14,0.357
+Mr. Darcy,Mr. Hurst,14,0.357
+Mr. Darcy,Miss Bingley,14,0.357
+Miss Bingley,Mr. Darcy,33,0.8588
+Miss Bingley,Elizabeth,33,0.8588
+Miss Bingley,Mrs. Hurst,33,0.8588
+Miss Bingley,Mr. Bingley,33,0.8588
+Miss Bingley,Mr. Hurst,33,0.8588
+Mr. Bingley,Mr. Darcy,4,0.4019
+Mr. Bingley,Elizabeth,4,0.4019
+Mr. Bingley,Mrs. Hurst,4,0.4019
+Mr. Bingley,Mr. Hurst,4,0.4019
+Mr. Bingley,Miss Bingley,4,0.4019
+Miss Bingley,Mr. Darcy,31,0.0
+Miss Bingley,Elizabeth,31,0.0
+Miss Bingley,Mrs. Hurst,31,0.0
+Miss Bingley,Mr. Bingley,31,0.0
+Miss Bingley,Mr. Hurst,31,0.0
+Mr. Bingley,Mr. Darcy,14,0.0
+Mr. Bingley,Elizabeth,14,0.0
+Mr. Bingley,Mrs. Hurst,14,0.0
+Mr. Bingley,Mr. Hurst,14,0.0
+Mr. Bingley,Miss Bingley,14,0.0
+Miss Bingley,Mr. Darcy,6,0.0
+Miss Bingley,Elizabeth,6,0.0
+Miss Bingley,Mrs. Hurst,6,0.0
+Miss Bingley,Mr. Bingley,6,0.0
+Miss Bingley,Mr. Hurst,6,0.0
+Mr. Bingley,Mr. Darcy,18,0.0
+Mr. Bingley,Elizabeth,18,0.0
+Mr. Bingley,Mrs. Hurst,18,0.0
+Mr. Bingley,Mr. Hurst,18,0.0
+Mr. Bingley,Miss Bingley,18,0.0
+Miss Bingley,Mr. Darcy,16,-0.2406
+Miss Bingley,Elizabeth,16,-0.2406
+Miss Bingley,Mrs. Hurst,16,-0.2406
+Miss Bingley,Mr. Bingley,16,-0.2406
+Miss Bingley,Mr. Hurst,16,-0.2406
+Mr. Darcy,Elizabeth,15,-0.1531
+Mr. Darcy,Mrs. Hurst,15,-0.1531
+Mr. Darcy,Mr. Bingley,15,-0.1531
+Mr. Darcy,Mr. Hurst,15,-0.1531
+Mr. Darcy,Miss Bingley,15,-0.1531
+Miss Bingley,Mr. Darcy,36,0.8247
+Miss Bingley,Elizabeth,36,0.8247
+Miss Bingley,Mrs. Hurst,36,0.8247
+Miss Bingley,Mr. Bingley,36,0.8247
+Miss Bingley,Mr. Hurst,36,0.8247
+Mr. Bingley,Mr. Darcy,20,0.8059
+Mr. Bingley,Elizabeth,20,0.8059
+Mr. Bingley,Mrs. Hurst,20,0.8059
+Mr. Bingley,Mr. Hurst,20,0.8059
+Mr. Bingley,Miss Bingley,20,0.8059
+Miss Bingley,Mr. Darcy,11,0.6996
+Miss Bingley,Elizabeth,11,0.6996
+Miss Bingley,Mrs. Hurst,11,0.6996
+Miss Bingley,Mr. Bingley,11,0.6996
+Miss Bingley,Mr. Hurst,11,0.6996
+Mr. Bingley,Mr. Darcy,49,0.8016
+Mr. Bingley,Elizabeth,49,0.8016
+Mr. Bingley,Mrs. Hurst,49,0.8016
+Mr. Bingley,Mr. Hurst,49,0.8016
+Mr. Bingley,Miss Bingley,49,0.8016
+Mr. Darcy,Elizabeth,71,0.8332
+Mr. Darcy,Mrs. Hurst,71,0.8332
+Mr. Darcy,Mr. Bingley,71,0.8332
+Mr. Darcy,Mr. Hurst,71,0.8332
+Mr. Darcy,Miss Bingley,71,0.8332
+Miss Bingley,Mr. Darcy,5,-0.2411
+Miss Bingley,Elizabeth,5,-0.2411
+Miss Bingley,Mrs. Hurst,5,-0.2411
+Miss Bingley,Mr. Bingley,5,-0.2411
+Miss Bingley,Mr. Hurst,5,-0.2411
+Elizabeth,Mr. Darcy,14,0.7906
+Elizabeth,Mrs. Hurst,14,0.7906
+Elizabeth,Mr. Bingley,14,0.7906
+Elizabeth,Mr. Hurst,14,0.7906
+Elizabeth,Miss Bingley,14,0.7906
+Mr. Darcy,Elizabeth,9,0.7783
+Mr. Darcy,Mrs. Hurst,9,0.7783
+Mr. Darcy,Mr. Bingley,9,0.7783
+Mr. Darcy,Mr. Hurst,9,0.7783
+Mr. Darcy,Miss Bingley,9,0.7783
+Miss Bingley,Mr. Darcy,73,0.6283
+Miss Bingley,Elizabeth,73,0.6283
+Miss Bingley,Mrs. Hurst,73,0.6283
+Miss Bingley,Mr. Bingley,73,0.6283
+Miss Bingley,Mr. Hurst,73,0.6283
+Mr. Darcy,Elizabeth,25,0.624
+Mr. Darcy,Mrs. Hurst,25,0.624
+Mr. Darcy,Mr. Bingley,25,0.624
+Mr. Darcy,Mr. Hurst,25,0.624
+Mr. Darcy,Miss Bingley,25,0.624
+Elizabeth,Mr. Darcy,20,0.3818
+Elizabeth,Mrs. Hurst,20,0.3818
+Elizabeth,Mr. Bingley,20,0.3818
+Elizabeth,Mr. Hurst,20,0.3818
+Elizabeth,Miss Bingley,20,0.3818
+Mr. Darcy,Elizabeth,16,-0.7065
+Mr. Darcy,Mrs. Hurst,16,-0.7065
+Mr. Darcy,Mr. Bingley,16,-0.7065
+Mr. Darcy,Mr. Hurst,16,-0.7065
+Mr. Darcy,Miss Bingley,16,-0.7065
+Elizabeth,Mr. Darcy,21,0.7096
+Elizabeth,Mrs. Hurst,21,0.7096
+Elizabeth,Mr. Bingley,21,0.7096
+Elizabeth,Mr. Hurst,21,0.7096
+Elizabeth,Miss Bingley,21,0.7096
+Miss Bingley,Mr. Darcy,43,0.431
+Miss Bingley,Mrs. Hurst,43,0.431
+Miss Bingley,Mr. Bingley,43,0.431
+Miss Bingley,Mr. Hurst,43,0.431
+Mr. Darcy,Mrs. Hurst,23,0.0
+Mr. Darcy,Mr. Bingley,23,0.0
+Mr. Darcy,Mr. Hurst,23,0.0
+Mr. Darcy,Miss Bingley,23,0.0
+Mrs. Bennet,Mr. Darcy,33,0.6486
+Mrs. Bennet,Elizabeth,33,0.6486
+Mrs. Bennet,Mr. Bingley,33,0.6486
+Mrs. Bennet,Lydia,33,0.6486
+Mrs. Bennet,Kitty,33,0.6486
+Mrs. Bennet,Miss Bingley,33,0.6486
+Mr. Bingley,Mr. Darcy,18,0.3802
+Mr. Bingley,Elizabeth,18,0.3802
+Mr. Bingley,Lydia,18,0.3802
+Mr. Bingley,Mrs. Bennet,18,0.3802
+Mr. Bingley,Kitty,18,0.3802
+Mr. Bingley,Miss Bingley,18,0.3802
+Miss Bingley,Mr. Darcy,19,-0.1531
+Miss Bingley,Elizabeth,19,-0.1531
+Miss Bingley,Lydia,19,-0.1531
+Miss Bingley,Mrs. Bennet,19,-0.1531
+Miss Bingley,Mr. Bingley,19,-0.1531
+Miss Bingley,Kitty,19,-0.1531
+Mrs. Bennet,Mr. Darcy,118,0.6486
+Mrs. Bennet,Elizabeth,118,0.6486
+Mrs. Bennet,Mr. Bingley,118,0.6486
+Mrs. Bennet,Lydia,118,0.6486
+Mrs. Bennet,Kitty,118,0.6486
+Mrs. Bennet,Miss Bingley,118,0.6486
+Mr. Bingley,Mr. Darcy,35,0.3818
+Mr. Bingley,Elizabeth,35,0.3818
+Mr. Bingley,Lydia,35,0.3818
+Mr. Bingley,Mrs. Bennet,35,0.3818
+Mr. Bingley,Kitty,35,0.3818
+Mr. Bingley,Miss Bingley,35,0.3818
+Elizabeth,Mr. Darcy,10,0.0
+Elizabeth,Mr. Bingley,10,0.0
+Elizabeth,Lydia,10,0.0
+Elizabeth,Mrs. Bennet,10,0.0
+Elizabeth,Kitty,10,0.0
+Elizabeth,Miss Bingley,10,0.0
+Mr. Bingley,Mr. Darcy,7,0.0
+Mr. Bingley,Elizabeth,7,0.0
+Mr. Bingley,Lydia,7,0.0
+Mr. Bingley,Mrs. Bennet,7,0.0
+Mr. Bingley,Kitty,7,0.0
+Mr. Bingley,Miss Bingley,7,0.0
+Elizabeth,Mr. Darcy,5,0.6696
+Elizabeth,Mr. Bingley,5,0.6696
+Elizabeth,Lydia,5,0.6696
+Elizabeth,Mrs. Bennet,5,0.6696
+Elizabeth,Kitty,5,0.6696
+Elizabeth,Miss Bingley,5,0.6696
+Mr. Bingley,Mr. Darcy,21,0.4165
+Mr. Bingley,Elizabeth,21,0.4165
+Mr. Bingley,Lydia,21,0.4165
+Mr. Bingley,Mrs. Bennet,21,0.4165
+Mr. Bingley,Kitty,21,0.4165
+Mr. Bingley,Miss Bingley,21,0.4165
+Elizabeth,Mr. Darcy,26,0.1531
+Elizabeth,Mr. Bingley,26,0.1531
+Elizabeth,Lydia,26,0.1531
+Elizabeth,Mrs. Bennet,26,0.1531
+Elizabeth,Kitty,26,0.1531
+Elizabeth,Miss Bingley,26,0.1531
+Mrs. Bennet,Mr. Darcy,22,-0.4939
+Mrs. Bennet,Elizabeth,22,-0.4939
+Mrs. Bennet,Mr. Bingley,22,-0.4939
+Mrs. Bennet,Lydia,22,-0.4939
+Mrs. Bennet,Kitty,22,-0.4939
+Mrs. Bennet,Miss Bingley,22,-0.4939
+Mr. Bingley,Mr. Darcy,18,0.3818
+Mr. Bingley,Elizabeth,18,0.3818
+Mr. Bingley,Lydia,18,0.3818
+Mr. Bingley,Mrs. Bennet,18,0.3818
+Mr. Bingley,Kitty,18,0.3818
+Mr. Bingley,Miss Bingley,18,0.3818
+Elizabeth,Mr. Darcy,14,0.8248
+Elizabeth,Mr. Bingley,14,0.8248
+Elizabeth,Lydia,14,0.8248
+Elizabeth,Mrs. Bennet,14,0.8248
+Elizabeth,Kitty,14,0.8248
+Elizabeth,Miss Bingley,14,0.8248
+Mr. Darcy,Elizabeth,26,0.0
+Mr. Darcy,Lydia,26,0.0
+Mr. Darcy,Mrs. Bennet,26,0.0
+Mr. Darcy,Kitty,26,0.0
+Mr. Darcy,Miss Bingley,26,0.0
+Elizabeth,Mr. Darcy,18,0.0
+Elizabeth,Mr. Bingley,18,0.0
+Elizabeth,Lydia,18,0.0
+Elizabeth,Mrs. Bennet,18,0.0
+Elizabeth,Kitty,18,0.0
+Elizabeth,Miss Bingley,18,0.0
+Mrs. Bennet,Mr. Darcy,20,0.6249
+Mrs. Bennet,Elizabeth,20,0.6249
+Mrs. Bennet,Mr. Bingley,20,0.6249
+Mrs. Bennet,Lydia,20,0.6249
+Mrs. Bennet,Kitty,20,0.6249
+Mrs. Bennet,Miss Bingley,20,0.6249
+Mrs. Bennet,Mr. Darcy,33,0.8225
+Mrs. Bennet,Elizabeth,33,0.8225
+Mrs. Bennet,Mr. Bingley,33,0.8225
+Mrs. Bennet,Lydia,33,0.8225
+Mrs. Bennet,Kitty,33,0.8225
+Mrs. Bennet,Miss Bingley,33,0.8225
+Mrs. Bennet,Mr. Darcy,11,0.0
+Mrs. Bennet,Elizabeth,11,0.0
+Mrs. Bennet,Mr. Bingley,11,0.0
+Mrs. Bennet,Lydia,11,0.0
+Mrs. Bennet,Kitty,11,0.0
+Mrs. Bennet,Miss Bingley,11,0.0
+Mrs. Bennet,Mr. Darcy,9,0.0
+Mrs. Bennet,Elizabeth,9,0.0
+Mrs. Bennet,Mr. Bingley,9,0.0
+Mrs. Bennet,Lydia,9,0.0
+Mrs. Bennet,Kitty,9,0.0
+Mrs. Bennet,Miss Bingley,9,0.0
+Elizabeth,Mr. Darcy,39,0.0772
+Elizabeth,Mr. Bingley,39,0.0772
+Elizabeth,Lydia,39,0.0772
+Elizabeth,Mrs. Bennet,39,0.0772
+Elizabeth,Kitty,39,0.0772
+Elizabeth,Miss Bingley,39,0.0772
+Mrs. Bennet,Mr. Darcy,34,0.3612
+Mrs. Bennet,Elizabeth,34,0.3612
+Mrs. Bennet,Mr. Bingley,34,0.3612
+Mrs. Bennet,Lydia,34,0.3612
+Mrs. Bennet,Kitty,34,0.3612
+Mrs. Bennet,Miss Bingley,34,0.3612
+Mrs. Bennet,Mr. Darcy,60,0.8293
+Mrs. Bennet,Elizabeth,60,0.8293
+Mrs. Bennet,Mr. Bingley,60,0.8293
+Mrs. Bennet,Lydia,60,0.8293
+Mrs. Bennet,Kitty,60,0.8293
+Mrs. Bennet,Miss Bingley,60,0.8293
+Mr. Bingley,Mr. Darcy,5,0.0
+Mr. Bingley,Lydia,5,0.0
+Mr. Bingley,Mrs. Bennet,5,0.0
+Mr. Bingley,Kitty,5,0.0
+Mr. Bingley,Miss Bingley,5,0.0
+Mrs. Bennet,Mr. Darcy,77,0.6908
+Mrs. Bennet,Elizabeth,77,0.6908
+Mrs. Bennet,Mr. Bingley,77,0.6908
+Mrs. Bennet,Lydia,77,0.6908
+Mrs. Bennet,Kitty,77,0.6908
+Mrs. Bennet,Miss Bingley,77,0.6908
+Mr. Bingley,Mr. Darcy,7,0.5563
+Mr. Bingley,Elizabeth,7,0.5563
+Mr. Bingley,Lydia,7,0.5563
+Mr. Bingley,Mrs. Bennet,7,0.5563
+Mr. Bingley,Kitty,7,0.5563
+Mr. Bingley,Miss Bingley,7,0.5563
+Mrs. Bennet,Mr. Darcy,117,0.9656
+Mrs. Bennet,Elizabeth,117,0.9656
+Mrs. Bennet,Mr. Bingley,117,0.9656
+Mrs. Bennet,Lydia,117,0.9656
+Mrs. Bennet,Kitty,117,0.9656
+Mrs. Bennet,Miss Bingley,117,0.9656
+Elizabeth,Mr. Darcy,31,0.8464
+Elizabeth,Mr. Bingley,31,0.8464
+Elizabeth,Lydia,31,0.8464
+Elizabeth,Mrs. Bennet,31,0.8464
+Elizabeth,Kitty,31,0.8464
+Elizabeth,Miss Bingley,31,0.8464
+Mr. Darcy,Elizabeth,12,0.6369
+Mr. Darcy,Lydia,12,0.6369
+Mr. Darcy,Mrs. Bennet,12,0.6369
+Mr. Darcy,Mr. Bingley,12,0.6369
+Mr. Darcy,Kitty,12,0.6369
+Mr. Darcy,Miss Bingley,12,0.6369
+Elizabeth,Mr. Darcy,38,0.872
+Elizabeth,Mr. Bingley,38,0.872
+Elizabeth,Lydia,38,0.872
+Elizabeth,Mrs. Bennet,38,0.872
+Elizabeth,Kitty,38,0.872
+Elizabeth,Miss Bingley,38,0.872
+Mr. Bingley,Mr. Darcy,41,0.0292
+Mr. Bingley,Elizabeth,41,0.0292
+Mr. Bingley,Lydia,41,0.0292
+Mr. Bingley,Mrs. Bennet,41,0.0292
+Mr. Bingley,Kitty,41,0.0292
+Mr. Bingley,Miss Bingley,41,0.0292
+Lydia,Mr. Darcy,55,0.5104
+Lydia,Elizabeth,55,0.5104
+Lydia,Mr. Bingley,55,0.5104
+Lydia,Mrs. Bennet,55,0.5104
+Lydia,Kitty,55,0.5104
+Lydia,Miss Bingley,55,0.5104
+Miss Bingley,Mr. Darcy,11,0.4574
+Miss Bingley,Elizabeth,11,0.4574
+Miss Bingley,Mrs. Hurst,11,0.4574
+Miss Bingley,Mr. Bingley,11,0.4574
+Miss Bingley,Mr. Hurst,11,0.4574
+Miss Bingley,Mr. Darcy,4,0.0
+Miss Bingley,Elizabeth,4,0.0
+Miss Bingley,Mrs. Hurst,4,0.0
+Miss Bingley,Mr. Bingley,4,0.0
+Miss Bingley,Mr. Hurst,4,0.0
+Mr. Darcy,Elizabeth,7,-0.3612
+Mr. Darcy,Mrs. Hurst,7,-0.3612
+Mr. Darcy,Mr. Bingley,7,-0.3612
+Mr. Darcy,Mr. Hurst,7,-0.3612
+Mr. Darcy,Miss Bingley,7,-0.3612
+Miss Bingley,Mr. Darcy,25,0.0
+Miss Bingley,Elizabeth,25,0.0
+Miss Bingley,Mrs. Hurst,25,0.0
+Miss Bingley,Mr. Bingley,25,0.0
+Miss Bingley,Mr. Hurst,25,0.0
+Mr. Darcy,Elizabeth,14,0.4404
+Mr. Darcy,Mrs. Hurst,14,0.4404
+Mr. Darcy,Mr. Bingley,14,0.4404
+Mr. Darcy,Mr. Hurst,14,0.4404
+Mr. Darcy,Miss Bingley,14,0.4404
+Miss Bingley,Mr. Darcy,10,0.3182
+Miss Bingley,Elizabeth,10,0.3182
+Miss Bingley,Mrs. Hurst,10,0.3182
+Miss Bingley,Mr. Bingley,10,0.3182
+Miss Bingley,Mr. Hurst,10,0.3182
+Mr. Darcy,Elizabeth,10,0.4019
+Mr. Darcy,Mrs. Hurst,10,0.4019
+Mr. Darcy,Mr. Bingley,10,0.4019
+Mr. Darcy,Mr. Hurst,10,0.4019
+Mr. Darcy,Miss Bingley,10,0.4019
+Miss Bingley,Mr. Darcy,20,0.0729
+Miss Bingley,Elizabeth,20,0.0729
+Miss Bingley,Mrs. Hurst,20,0.0729
+Miss Bingley,Mr. Bingley,20,0.0729
+Miss Bingley,Mr. Hurst,20,0.0729
+Mr. Darcy,Elizabeth,7,0.3612
+Mr. Darcy,Mrs. Hurst,7,0.3612
+Mr. Darcy,Mr. Bingley,7,0.3612
+Mr. Darcy,Mr. Hurst,7,0.3612
+Mr. Darcy,Miss Bingley,7,0.3612
+Miss Bingley,Mr. Darcy,8,0.0
+Miss Bingley,Elizabeth,8,0.0
+Miss Bingley,Mrs. Hurst,8,0.0
+Miss Bingley,Mr. Bingley,8,0.0
+Miss Bingley,Mr. Hurst,8,0.0
+Miss Bingley,Mr. Darcy,42,0.9467
+Miss Bingley,Elizabeth,42,0.9467
+Miss Bingley,Mrs. Hurst,42,0.9467
+Miss Bingley,Mr. Bingley,42,0.9467
+Miss Bingley,Mr. Hurst,42,0.9467
+Mr. Darcy,Elizabeth,22,0.4019
+Mr. Darcy,Mrs. Hurst,22,0.4019
+Mr. Darcy,Mr. Bingley,22,0.4019
+Mr. Darcy,Mr. Hurst,22,0.4019
+Mr. Darcy,Miss Bingley,22,0.4019
+Miss Bingley,Mr. Darcy,25,0.7088
+Miss Bingley,Elizabeth,25,0.7088
+Miss Bingley,Mrs. Hurst,25,0.7088
+Miss Bingley,Mr. Bingley,25,0.7088
+Miss Bingley,Mr. Hurst,25,0.7088
+Mr. Darcy,Elizabeth,15,0.7351
+Mr. Darcy,Mrs. Hurst,15,0.7351
+Mr. Darcy,Mr. Bingley,15,0.7351
+Mr. Darcy,Mr. Hurst,15,0.7351
+Mr. Darcy,Miss Bingley,15,0.7351
+Miss Bingley,Mr. Darcy,20,0.5903
+Miss Bingley,Elizabeth,20,0.5903
+Miss Bingley,Mrs. Hurst,20,0.5903
+Miss Bingley,Mr. Bingley,20,0.5903
+Miss Bingley,Mr. Hurst,20,0.5903
+Mr. Bingley,Mr. Darcy,29,-0.0139
+Mr. Bingley,Elizabeth,29,-0.0139
+Mr. Bingley,Mrs. Hurst,29,-0.0139
+Mr. Bingley,Mr. Hurst,29,-0.0139
+Mr. Bingley,Miss Bingley,29,-0.0139
+Mr. Darcy,Elizabeth,9,0.0
+Mr. Darcy,Mrs. Hurst,9,0.0
+Mr. Darcy,Mr. Bingley,9,0.0
+Mr. Darcy,Mr. Hurst,9,0.0
+Mr. Darcy,Miss Bingley,9,0.0
+Miss Bingley,Mr. Darcy,19,-0.474
+Miss Bingley,Elizabeth,19,-0.474
+Miss Bingley,Mrs. Hurst,19,-0.474
+Miss Bingley,Mr. Bingley,19,-0.474
+Miss Bingley,Mr. Hurst,19,-0.474
+Mr. Bingley,Mr. Darcy,26,-0.296
+Mr. Bingley,Elizabeth,26,-0.296
+Mr. Bingley,Mrs. Hurst,26,-0.296
+Mr. Bingley,Mr. Hurst,26,-0.296
+Mr. Bingley,Miss Bingley,26,-0.296
+Elizabeth,Mr. Darcy,7,0.0
+Elizabeth,Mrs. Hurst,7,0.0
+Elizabeth,Mr. Bingley,7,0.0
+Elizabeth,Mr. Hurst,7,0.0
+Elizabeth,Miss Bingley,7,0.0
+Mr. Darcy,Elizabeth,21,0.0574
+Mr. Darcy,Mrs. Hurst,21,0.0574
+Mr. Darcy,Mr. Bingley,21,0.0574
+Mr. Darcy,Mr. Hurst,21,0.0574
+Mr. Darcy,Miss Bingley,21,0.0574
+Mr. Bingley,Mr. Darcy,14,0.0
+Mr. Bingley,Elizabeth,14,0.0
+Mr. Bingley,Mrs. Hurst,14,0.0
+Mr. Bingley,Mr. Hurst,14,0.0
+Mr. Bingley,Miss Bingley,14,0.0
+Mr. Darcy,Elizabeth,128,0.8437
+Mr. Darcy,Mrs. Hurst,128,0.8437
+Mr. Darcy,Mr. Bingley,128,0.8437
+Mr. Darcy,Mr. Hurst,128,0.8437
+Mr. Darcy,Miss Bingley,128,0.8437
+Mr. Bingley,Mr. Darcy,60,0.6597
+Mr. Bingley,Elizabeth,60,0.6597
+Mr. Bingley,Mrs. Hurst,60,0.6597
+Mr. Bingley,Mr. Hurst,60,0.6597
+Mr. Bingley,Miss Bingley,60,0.6597
+Mr. Darcy,Elizabeth,75,0.9081
+Mr. Darcy,Mrs. Hurst,75,0.9081
+Mr. Darcy,Mr. Bingley,75,0.9081
+Mr. Darcy,Mr. Hurst,75,0.9081
+Mr. Darcy,Miss Bingley,75,0.9081
+Elizabeth,Mr. Darcy,29,-0.4168
+Elizabeth,Mrs. Hurst,29,-0.4168
+Elizabeth,Mr. Bingley,29,-0.4168
+Elizabeth,Mr. Hurst,29,-0.4168
+Elizabeth,Miss Bingley,29,-0.4168
+Mr. Bingley,Mr. Darcy,67,0.9081
+Mr. Bingley,Elizabeth,67,0.9081
+Mr. Bingley,Mrs. Hurst,67,0.9081
+Mr. Bingley,Mr. Hurst,67,0.9081
+Mr. Bingley,Miss Bingley,67,0.9081
+Elizabeth,Mr. Darcy,21,0.3182
+Elizabeth,Mrs. Hurst,21,0.3182
+Elizabeth,Mr. Bingley,21,0.3182
+Elizabeth,Mr. Hurst,21,0.3182
+Elizabeth,Miss Bingley,21,0.3182
+Mr. Bingley,Mr. Darcy,14,0.0258
+Mr. Bingley,Elizabeth,14,0.0258
+Mr. Bingley,Mrs. Hurst,14,0.0258
+Mr. Bingley,Mr. Hurst,14,0.0258
+Mr. Bingley,Miss Bingley,14,0.0258
+Mr. Darcy,Elizabeth,68,0.9211
+Mr. Darcy,Mrs. Hurst,68,0.9211
+Mr. Darcy,Mr. Bingley,68,0.9211
+Mr. Darcy,Mr. Hurst,68,0.9211
+Mr. Darcy,Miss Bingley,68,0.9211
+Elizabeth,Mr. Darcy,13,0.5859
+Elizabeth,Mrs. Hurst,13,0.5859
+Elizabeth,Mr. Bingley,13,0.5859
+Elizabeth,Mr. Hurst,13,0.5859
+Elizabeth,Miss Bingley,13,0.5859
+Mr. Darcy,Elizabeth,12,0.6108
+Mr. Darcy,Mrs. Hurst,12,0.6108
+Mr. Darcy,Mr. Bingley,12,0.6108
+Mr. Darcy,Mr. Hurst,12,0.6108
+Mr. Darcy,Miss Bingley,12,0.6108
+Elizabeth,Mr. Darcy,121,0.9579
+Elizabeth,Mrs. Hurst,121,0.9579
+Elizabeth,Mr. Bingley,121,0.9579
+Elizabeth,Mr. Hurst,121,0.9579
+Elizabeth,Miss Bingley,121,0.9579
+Mr. Darcy,Elizabeth,39,0.743
+Mr. Darcy,Mrs. Hurst,39,0.743
+Mr. Darcy,Mr. Bingley,39,0.743
+Mr. Darcy,Mr. Hurst,39,0.743
+Mr. Darcy,Miss Bingley,39,0.743
+Mr. Bingley,Mr. Darcy,94,-0.5716
+Mr. Bingley,Elizabeth,94,-0.5716
+Mr. Bingley,Mrs. Hurst,94,-0.5716
+Mr. Bingley,Mr. Hurst,94,-0.5716
+Mr. Bingley,Miss Bingley,94,-0.5716
+Mr. Darcy,Elizabeth,14,-0.5859
+Mr. Darcy,Mrs. Hurst,14,-0.5859
+Mr. Darcy,Mr. Bingley,14,-0.5859
+Mr. Darcy,Mr. Hurst,14,-0.5859
+Mr. Darcy,Miss Bingley,14,-0.5859
+Mr. Bingley,Mr. Darcy,39,0.3384
+Mr. Bingley,Elizabeth,39,0.3384
+Mr. Bingley,Mrs. Hurst,39,0.3384
+Mr. Bingley,Mr. Hurst,39,0.3384
+Mr. Bingley,Miss Bingley,39,0.3384
+Elizabeth,Mr. Darcy,18,0.1779
+Elizabeth,Mrs. Hurst,18,0.1779
+Elizabeth,Mr. Bingley,18,0.1779
+Elizabeth,Mr. Hurst,18,0.1779
+Elizabeth,Miss Bingley,18,0.1779
+Mr. Darcy,Elizabeth,18,-0.2718
+Elizabeth,Mr. Darcy,79,-0.8582
+Mr. Darcy,Elizabeth,5,0.0
+Miss Bingley,Mr. Darcy,63,0.7987
+Mr. Darcy,Miss Bingley,11,0.0
+Mr. Darcy,Miss Bingley,24,0.33
+Miss Bingley,Mr. Darcy,9,0.0
+Miss Bingley,Elizabeth,9,0.0
+Miss Bingley,Mrs. Hurst,9,0.0
+Mrs. Hurst,Mr. Darcy,16,-0.4215
+Mrs. Hurst,Elizabeth,16,-0.4215
+Mrs. Hurst,Miss Bingley,16,-0.4215
+Mr. Darcy,Elizabeth,16,0.6808
+Mr. Darcy,Mrs. Hurst,16,0.6808
+Mr. Darcy,Miss Bingley,16,0.6808
+Elizabeth,Mr. Darcy,25,0.743
+Elizabeth,Mrs. Hurst,25,0.743
+Elizabeth,Miss Bingley,25,0.743
+Mr. Hurst,Mr. Darcy,2,0.5095
+Mr. Hurst,Elizabeth,2,0.5095
+Mr. Hurst,Mrs. Hurst,2,0.5095
+Mr. Hurst,Mr. Bingley,2,0.5095
+Mr. Hurst,Jane,2,0.5095
+Mr. Hurst,Miss Bingley,2,0.5095
+Miss Bingley,Mr. Darcy,51,0.4363
+Miss Bingley,Elizabeth,51,0.4363
+Miss Bingley,Mrs. Hurst,51,0.4363
+Miss Bingley,Mr. Bingley,51,0.4363
+Miss Bingley,Jane,51,0.4363
+Miss Bingley,Mr. Darcy,53,0.1796
+Miss Bingley,Elizabeth,53,0.1796
+Miss Bingley,Mrs. Hurst,53,0.1796
+Miss Bingley,Mr. Bingley,53,0.1796
+Miss Bingley,Jane,53,0.1796
+Mr. Bingley,Mr. Darcy,41,0.0
+Mr. Bingley,Elizabeth,41,0.0
+Mr. Bingley,Mrs. Hurst,41,0.0
+Mr. Bingley,Jane,41,0.0
+Mr. Bingley,Miss Bingley,41,0.0
+Miss Bingley,Mr. Darcy,47,0.7615
+Miss Bingley,Elizabeth,47,0.7615
+Miss Bingley,Mrs. Hurst,47,0.7615
+Miss Bingley,Mr. Bingley,47,0.7615
+Miss Bingley,Jane,47,0.7615
+Mr. Bingley,Mr. Darcy,20,0.6808
+Mr. Bingley,Elizabeth,20,0.6808
+Mr. Bingley,Mrs. Hurst,20,0.6808
+Mr. Bingley,Jane,20,0.6808
+Mr. Bingley,Miss Bingley,20,0.6808
+Miss Bingley,Mr. Darcy,31,0.2023
+Miss Bingley,Elizabeth,31,0.2023
+Miss Bingley,Mrs. Hurst,31,0.2023
+Miss Bingley,Mr. Bingley,31,0.2023
+Miss Bingley,Jane,31,0.2023
+Elizabeth,Miss Bingley,28,-0.6956
+Mr. Darcy,Elizabeth,70,0.9201
+Mr. Darcy,Mrs. Hurst,70,0.9201
+Mr. Darcy,Mr. Bingley,70,0.9201
+Mr. Darcy,Jane,70,0.9201
+Mr. Darcy,Miss Bingley,70,0.9201
+Miss Bingley,Mr. Darcy,18,-0.7707
+Miss Bingley,Elizabeth,18,-0.7707
+Miss Bingley,Mrs. Hurst,18,-0.7707
+Miss Bingley,Mr. Bingley,18,-0.7707
+Miss Bingley,Jane,18,-0.7707
+Elizabeth,Mr. Darcy,33,-0.7515
+Elizabeth,Mrs. Hurst,33,-0.7515
+Elizabeth,Mr. Bingley,33,-0.7515
+Elizabeth,Jane,33,-0.7515
+Elizabeth,Miss Bingley,33,-0.7515
+Miss Bingley,Mr. Darcy,60,0.9763
+Miss Bingley,Elizabeth,60,0.9763
+Miss Bingley,Mrs. Hurst,60,0.9763
+Miss Bingley,Mr. Bingley,60,0.9763
+Miss Bingley,Jane,60,0.9763
+Elizabeth,Mr. Darcy,39,0.9443
+Elizabeth,Mrs. Hurst,39,0.9443
+Elizabeth,Mr. Bingley,39,0.9443
+Elizabeth,Jane,39,0.9443
+Elizabeth,Miss Bingley,39,0.9443
+Mr. Darcy,Elizabeth,41,0.946
+Mr. Darcy,Mrs. Hurst,41,0.946
+Mr. Darcy,Mr. Bingley,41,0.946
+Mr. Darcy,Jane,41,0.946
+Mr. Darcy,Miss Bingley,41,0.946
+Elizabeth,Mr. Darcy,52,0.9718
+Elizabeth,Mrs. Hurst,52,0.9718
+Elizabeth,Mr. Bingley,52,0.9718
+Elizabeth,Jane,52,0.9718
+Elizabeth,Miss Bingley,52,0.9718
+Mr. Darcy,Elizabeth,29,-0.7579
+Mr. Darcy,Mrs. Hurst,29,-0.7579
+Mr. Darcy,Mr. Bingley,29,-0.7579
+Mr. Darcy,Miss Bingley,29,-0.7579
+Elizabeth,Mr. Darcy,5,0.128
+Elizabeth,Mrs. Hurst,5,0.128
+Elizabeth,Mr. Bingley,5,0.128
+Elizabeth,Jane,5,0.128
+Elizabeth,Miss Bingley,5,0.128
+Mr. Darcy,Elizabeth,22,0.8608
+Mr. Darcy,Mrs. Hurst,22,0.8608
+Mr. Darcy,Mr. Bingley,22,0.8608
+Mr. Darcy,Jane,22,0.8608
+Mr. Darcy,Miss Bingley,22,0.8608
+Miss Bingley,Mr. Darcy,15,0.3182
+Miss Bingley,Elizabeth,15,0.3182
+Miss Bingley,Mrs. Hurst,15,0.3182
+Miss Bingley,Mr. Bingley,15,0.3182
+Elizabeth,Mr. Darcy,18,0.6174
+Elizabeth,Mrs. Hurst,18,0.6174
+Elizabeth,Mr. Bingley,18,0.6174
+Elizabeth,Jane,18,0.6174
+Elizabeth,Miss Bingley,18,0.6174
+Mr. Darcy,Elizabeth,86,-0.9053
+Mr. Darcy,Mrs. Hurst,86,-0.9053
+Mr. Darcy,Mr. Bingley,86,-0.9053
+Mr. Darcy,Jane,86,-0.9053
+Mr. Darcy,Miss Bingley,86,-0.9053
+Elizabeth,Mr. Darcy,30,-0.4753
+Elizabeth,Mrs. Hurst,30,-0.4753
+Elizabeth,Mr. Bingley,30,-0.4753
+Elizabeth,Jane,30,-0.4753
+Elizabeth,Miss Bingley,30,-0.4753
+Mr. Darcy,Elizabeth,24,-0.8257
+Mr. Darcy,Mrs. Hurst,24,-0.8257
+Mr. Darcy,Mr. Bingley,24,-0.8257
+Mr. Darcy,Jane,24,-0.8257
+Mr. Darcy,Miss Bingley,24,-0.8257
+Elizabeth,Mr. Darcy,10,-0.7269
+Elizabeth,Mrs. Hurst,10,-0.7269
+Elizabeth,Mr. Bingley,10,-0.7269
+Elizabeth,Jane,10,-0.7269
+Elizabeth,Miss Bingley,10,-0.7269
+Mr. Darcy,Elizabeth,7,-0.3612
+Mr. Darcy,Mrs. Hurst,7,-0.3612
+Mr. Darcy,Mr. Bingley,7,-0.3612
+Mr. Darcy,Jane,7,-0.3612
+Mr. Darcy,Miss Bingley,7,-0.3612
+Miss Bingley,Mr. Darcy,16,0.0
+Miss Bingley,Elizabeth,16,0.0
+Miss Bingley,Mrs. Hurst,16,0.0
+Miss Bingley,Mr. Bingley,16,0.0
+Miss Bingley,Jane,16,0.0
+Mr. Bennet,Mary,24,0.8779
+Mr. Bennet,Elizabeth,24,0.8779
+Mr. Bennet,Lydia,24,0.8779
+Mr. Bennet,Mrs. Bennet,24,0.8779
+Mr. Bennet,Kitty,24,0.8779
+Mr. Bennet,Jane,24,0.8779
+Mrs. Bennet,Mary,44,0.8658
+Mrs. Bennet,Elizabeth,44,0.8658
+Mrs. Bennet,Lydia,44,0.8658
+Mrs. Bennet,Kitty,44,0.8658
+Mrs. Bennet,Jane,44,0.8658
+Mrs. Bennet,Mr. Bennet,44,0.8658
+Mr. Bennet,Mary,12,0.0
+Mr. Bennet,Elizabeth,12,0.0
+Mr. Bennet,Lydia,12,0.0
+Mr. Bennet,Mrs. Bennet,12,0.0
+Mr. Bennet,Kitty,12,0.0
+Mr. Bennet,Jane,12,0.0
+Mrs. Bennet,Mary,63,0.9367
+Mrs. Bennet,Elizabeth,63,0.9367
+Mrs. Bennet,Lydia,63,0.9367
+Mrs. Bennet,Kitty,63,0.9367
+Mrs. Bennet,Jane,63,0.9367
+Mrs. Bennet,Mr. Bennet,63,0.9367
+Mr. Bennet,Mary,20,0.0
+Mr. Bennet,Elizabeth,20,0.0
+Mr. Bennet,Lydia,20,0.0
+Mr. Bennet,Mrs. Bennet,20,0.0
+Mr. Bennet,Kitty,20,0.0
+Mr. Bennet,Jane,20,0.0
+Mr. Bennet,Mary,54,-0.3818
+Mr. Bennet,Elizabeth,54,-0.3818
+Mr. Bennet,Lydia,54,-0.3818
+Mr. Bennet,Mrs. Bennet,54,-0.3818
+Mr. Bennet,Kitty,54,-0.3818
+Mr. Bennet,Jane,54,-0.3818
+Mrs. Bennet,Mary,62,0.7574
+Mrs. Bennet,Elizabeth,62,0.7574
+Mrs. Bennet,Lydia,62,0.7574
+Mrs. Bennet,Kitty,62,0.7574
+Mrs. Bennet,Jane,62,0.7574
+Mrs. Bennet,Mr. Bennet,62,0.7574
+Mr. Bennet,Mary,40,-0.1134
+Mr. Bennet,Elizabeth,40,-0.1134
+Mr. Bennet,Lydia,40,-0.1134
+Mr. Bennet,Mrs. Bennet,40,-0.1134
+Mr. Bennet,Kitty,40,-0.1134
+Mr. Bennet,Jane,40,-0.1134
+Mrs. Bennet,Mary,46,-0.6214
+Mrs. Bennet,Elizabeth,46,-0.6214
+Mrs. Bennet,Lydia,46,-0.6214
+Mrs. Bennet,Kitty,46,-0.6214
+Mrs. Bennet,Jane,46,-0.6214
+Mrs. Bennet,Mr. Bennet,46,-0.6214
+Mr. Bennet,Mary,70,-0.6192
+Mr. Bennet,Elizabeth,70,-0.6192
+Mr. Bennet,Lydia,70,-0.6192
+Mr. Bennet,Mrs. Bennet,70,-0.6192
+Mr. Bennet,Kitty,70,-0.6192
+Mr. Bennet,Jane,70,-0.6192
+Mrs. Bennet,Mary,31,-0.4215
+Mrs. Bennet,Elizabeth,31,-0.4215
+Mrs. Bennet,Lydia,31,-0.4215
+Mrs. Bennet,Kitty,31,-0.4215
+Mrs. Bennet,Jane,31,-0.4215
+Mrs. Bennet,Mr. Bennet,31,-0.4215
+Jane,Mary,28,0.6369
+Jane,Elizabeth,28,0.6369
+Jane,Lydia,28,0.6369
+Jane,Mrs. Bennet,28,0.6369
+Jane,Kitty,28,0.6369
+Jane,Mr. Bennet,28,0.6369
+Elizabeth,Mary,46,0.4137
+Elizabeth,Lydia,46,0.4137
+Elizabeth,Mrs. Bennet,46,0.4137
+Elizabeth,Kitty,46,0.4137
+Elizabeth,Jane,46,0.4137
+Elizabeth,Mr. Bennet,46,0.4137
+Mr. Bennet,Mary,36,-0.4071
+Mr. Bennet,Elizabeth,36,-0.4071
+Mr. Bennet,Lydia,36,-0.4071
+Mr. Bennet,Mrs. Bennet,36,-0.4071
+Mr. Bennet,Kitty,36,-0.4071
+Mr. Bennet,Jane,36,-0.4071
+Mary,Elizabeth,28,0.5432
+Mary,Lydia,28,0.5432
+Mary,Mrs. Bennet,28,0.5432
+Mary,Kitty,28,0.5432
+Mary,Jane,28,0.5432
+Mary,Mr. Bennet,28,0.5432
+Mrs. Bennet,Mary,31,0.8268
+Mrs. Bennet,Elizabeth,31,0.8268
+Mrs. Bennet,Lydia,31,0.8268
+Mrs. Bennet,Kitty,31,0.8268
+Mrs. Bennet,Jane,31,0.8268
+Mrs. Bennet,Mr. Collins,31,0.8268
+Mrs. Bennet,Mr. Bennet,31,0.8268
+Mr. Collins,Mary,9,0.0
+Mr. Collins,Elizabeth,9,0.0
+Mr. Collins,Lydia,9,0.0
+Mr. Collins,Mrs. Bennet,9,0.0
+Mr. Collins,Kitty,9,0.0
+Mr. Collins,Jane,9,0.0
+Mr. Collins,Mr. Bennet,9,0.0
+Mrs. Bennet,Mary,52,-0.8516
+Mrs. Bennet,Elizabeth,52,-0.8516
+Mrs. Bennet,Lydia,52,-0.8516
+Mrs. Bennet,Kitty,52,-0.8516
+Mrs. Bennet,Jane,52,-0.8516
+Mrs. Bennet,Mr. Collins,52,-0.8516
+Mrs. Bennet,Mr. Bennet,52,-0.8516
+Mr. Collins,Mary,56,0.9161
+Mr. Collins,Elizabeth,56,0.9161
+Mr. Collins,Lydia,56,0.9161
+Mr. Collins,Mrs. Bennet,56,0.9161
+Mr. Collins,Kitty,56,0.9161
+Mr. Collins,Jane,56,0.9161
+Mr. Collins,Mr. Bennet,56,0.9161
+Mrs. Bennet,Mary,40,0.7155
+Mrs. Bennet,Elizabeth,40,0.7155
+Mrs. Bennet,Lydia,40,0.7155
+Mrs. Bennet,Kitty,40,0.7155
+Mrs. Bennet,Jane,40,0.7155
+Mrs. Bennet,Mr. Collins,40,0.7155
+Mrs. Bennet,Mr. Bennet,40,0.7155
+Mr. Collins,Mary,20,0.0
+Mr. Collins,Elizabeth,20,0.0
+Mr. Collins,Lydia,20,0.0
+Mr. Collins,Mrs. Bennet,20,0.0
+Mr. Collins,Kitty,20,0.0
+Mr. Collins,Jane,20,0.0
+Mr. Collins,Mr. Bennet,20,0.0
+Mrs. Bennet,Mary,13,0.0
+Mrs. Bennet,Elizabeth,13,0.0
+Mrs. Bennet,Lydia,13,0.0
+Mrs. Bennet,Kitty,13,0.0
+Mrs. Bennet,Jane,13,0.0
+Mrs. Bennet,Mr. Collins,13,0.0
+Mrs. Bennet,Mr. Bennet,13,0.0
+Mr. Collins,Mary,14,0.0
+Mr. Collins,Elizabeth,14,0.0
+Mr. Collins,Lydia,14,0.0
+Mr. Collins,Mrs. Bennet,14,0.0
+Mr. Collins,Kitty,14,0.0
+Mr. Collins,Jane,14,0.0
+Mr. Collins,Mr. Bennet,14,0.0
+Mrs. Bennet,Mary,20,0.7752
+Mrs. Bennet,Elizabeth,20,0.7752
+Mrs. Bennet,Lydia,20,0.7752
+Mrs. Bennet,Kitty,20,0.7752
+Mrs. Bennet,Jane,20,0.7752
+Mrs. Bennet,Mr. Collins,20,0.7752
+Mrs. Bennet,Mr. Bennet,20,0.7752
+Mr. Collins,Mary,107,0.9516
+Mr. Collins,Elizabeth,107,0.9516
+Mr. Collins,Lydia,107,0.9516
+Mr. Collins,Mrs. Bennet,107,0.9516
+Mr. Collins,Kitty,107,0.9516
+Mr. Collins,Jane,107,0.9516
+Mr. Collins,Mr. Bennet,107,0.9516
+Mrs. Bennet,Mary,15,0.0
+Mrs. Bennet,Elizabeth,15,0.0
+Mrs. Bennet,Lydia,15,0.0
+Mrs. Bennet,Kitty,15,0.0
+Mrs. Bennet,Jane,15,0.0
+Mrs. Bennet,Mr. Collins,15,0.0
+Mrs. Bennet,Mr. Bennet,15,0.0
+Mr. Collins,Mary,122,0.9429
+Mr. Collins,Elizabeth,122,0.9429
+Mr. Collins,Lydia,122,0.9429
+Mr. Collins,Mrs. Bennet,122,0.9429
+Mr. Collins,Kitty,122,0.9429
+Mr. Collins,Jane,122,0.9429
+Mr. Collins,Mr. Bennet,122,0.9429
+Mr. Bennet,Mary,40,0.9042
+Mr. Bennet,Elizabeth,40,0.9042
+Mr. Bennet,Lydia,40,0.9042
+Mr. Bennet,Mrs. Bennet,40,0.9042
+Mr. Bennet,Kitty,40,0.9042
+Mr. Bennet,Jane,40,0.9042
+Mr. Bennet,Mr. Collins,40,0.9042
+Mr. Collins,Mary,43,0.8634
+Mr. Collins,Elizabeth,43,0.8634
+Mr. Collins,Lydia,43,0.8634
+Mr. Collins,Mrs. Bennet,43,0.8634
+Mr. Collins,Kitty,43,0.8634
+Mr. Collins,Jane,43,0.8634
+Mr. Collins,Mr. Bennet,43,0.8634
+Lydia,Mary,51,0.0
+Lydia,Elizabeth,51,0.0
+Lydia,Mrs. Bennet,51,0.0
+Lydia,Kitty,51,0.0
+Lydia,Jane,51,0.0
+Lydia,Mr. Collins,51,0.0
+Lydia,Mr. Bennet,51,0.0
+Mr. Collins,Mary,47,0.2193
+Mr. Collins,Elizabeth,47,0.2193
+Mr. Collins,Lydia,47,0.2193
+Mr. Collins,Mrs. Bennet,47,0.2193
+Mr. Collins,Kitty,47,0.2193
+Mr. Collins,Jane,47,0.2193
+Mr. Collins,Mr. Bennet,47,0.2193
+Mrs. Bennet,Mr. Collins,44,0.0522
+Mr. Collins,Mary,22,0.8338
+Mr. Collins,Elizabeth,22,0.8338
+Mr. Collins,Lydia,22,0.8338
+Mr. Collins,Kitty,22,0.8338
+Mr. Collins,Jane,22,0.8338
+Mr. Collins,Mrs. Philips,22,0.8338
+Mr. Collins,George Wickham,22,0.8338
+Mr. Collins,Mr. Philips,22,0.8338
+Elizabeth,George Wickham,15,0.0
+George Wickham,Elizabeth,48,0.932
+George Wickham,Elizabeth,31,0.34
+Elizabeth,George Wickham,25,-0.0754
+George Wickham,Elizabeth,72,0.7673
+Elizabeth,George Wickham,47,-0.6738
+George Wickham,Elizabeth,56,-0.6654
+Elizabeth,George Wickham,14,0.0
+George Wickham,Elizabeth,13,0.0
+Elizabeth,George Wickham,38,0.8543
+George Wickham,Elizabeth,151,-0.183
+George Wickham,Elizabeth,138,0.9597
+Elizabeth,George Wickham,1,0.0
+George Wickham,Elizabeth,54,0.5664
+Elizabeth,George Wickham,18,0.4726
+George Wickham,Elizabeth,160,-0.0218
+Elizabeth,George Wickham,9,-0.5093
+George Wickham,Elizabeth,26,-0.1169
+Elizabeth,George Wickham,15,-0.8466
+George Wickham,Elizabeth,71,0.6703
+Elizabeth,George Wickham,51,-0.9482
+Elizabeth,George Wickham,26,-0.8225
+George Wickham,Elizabeth,15,-0.4023
+Elizabeth,George Wickham,53,0.8395
+George Wickham,Elizabeth,149,0.9903
+Elizabeth,George Wickham,40,0.7628
+George Wickham,Elizabeth,51,0.9371
+Elizabeth,George Wickham,11,0.6486
+George Wickham,Elizabeth,106,0.9753
+Elizabeth,George Wickham,8,-0.1531
+George Wickham,Elizabeth,89,0.9772
+Elizabeth,George Wickham,42,0.9383
+George Wickham,Elizabeth,3,0.0
+Elizabeth,George Wickham,15,0.7783
+George Wickham,Elizabeth,75,0.9493
+Mr. Collins,Mary,64,0.7939
+Mr. Collins,Elizabeth,64,0.7939
+Mr. Collins,Lydia,64,0.7939
+Mr. Collins,Kitty,64,0.7939
+Mr. Collins,Jane,64,0.7939
+Mr. Collins,Mrs. Philips,64,0.7939
+Mr. Collins,George Wickham,64,0.7939
+Elizabeth,George Wickham,31,0.4767
+George Wickham,Elizabeth,25,0.0
+Elizabeth,George Wickham,24,-0.296
+George Wickham,Elizabeth,25,-0.1531
+Elizabeth,George Wickham,43,-0.8047
+George Wickham,Elizabeth,91,0.9125
+Jane,Elizabeth,53,-0.0936
+Elizabeth,Jane,40,0.8016
+Jane,Elizabeth,83,0.7396
+Elizabeth,Jane,51,0.3384
+Jane,Elizabeth,12,-0.3612
+Elizabeth,Jane,9,0.0
+Mary,Elizabeth,46,0.6293
+Mary,Lydia,46,0.6293
+Mary,Mrs. Bennet,46,0.6293
+Mary,Kitty,46,0.6293
+Mary,Jane,46,0.6293
+Mary,Mr. Bennet,46,0.6293
+Mr. Collins,Elizabeth,98,0.9544
+Mr. Denney,Elizabeth,24,0.4567
+Mr. Denney,Lydia,24,0.4567
+Charlotte Lucas,Elizabeth,9,0.4754
+Elizabeth,Charlotte Lucas,25,0.7856
+Elizabeth,Mr. Darcy,34,0.0772
+Elizabeth,Mr. Darcy,28,0.3612
+Mr. Darcy,Elizabeth,10,0.0
+Elizabeth,Mr. Darcy,47,-0.4588
+Mr. Darcy,Elizabeth,19,0.5106
+Elizabeth,Mr. Darcy,50,0.8225
+Mr. Darcy,Elizabeth,31,0.51
+Elizabeth,Mr. Darcy,8,0.0
+Elizabeth,Mr. Darcy,16,0.0
+Mr. Darcy,Elizabeth,25,0.9275
+Elizabeth,Mr. Darcy,24,-0.5106
+Sir William Lucas,Mr. Darcy,110,0.9879
+Sir William Lucas,Elizabeth,110,0.9879
+Mr. Darcy,Elizabeth,12,-0.5267
+Elizabeth,Mr. Darcy,48,-0.2755
+Mr. Darcy,Elizabeth,5,0.0
+Elizabeth,Mr. Darcy,15,0.3802
+Mr. Darcy,Elizabeth,26,-0.3612
+Elizabeth,Mr. Darcy,16,0.0
+Mr. Darcy,Elizabeth,9,0.0
+Elizabeth,Mr. Darcy,2,0.4019
+Elizabeth,Mr. Darcy,31,-0.1208
+Mr. Darcy,Elizabeth,2,0.0
+Elizabeth,Mr. Darcy,9,-0.608
+Mr. Darcy,Elizabeth,3,0.4404
+Elizabeth,Mr. Darcy,19,0.34
+Mr. Darcy,Elizabeth,8,0.0
+Elizabeth,Mr. Darcy,14,0.0
+Mr. Darcy,Elizabeth,5,0.5719
+Elizabeth,Mr. Darcy,18,0.0
+Mr. Darcy,Elizabeth,46,0.3976
+Elizabeth,Mr. Darcy,15,-0.4585
+Mr. Darcy,Elizabeth,10,0.0516
+Miss Bingley,Elizabeth,217,0.8272
+Elizabeth,Miss Bingley,43,0.2626
+Miss Bingley,Elizabeth,10,0.7003
+Elizabeth,Elizabeth,35,-0.7463
+Elizabeth,Jane,35,0.9294
+Jane,Elizabeth,112,0.9496
+Elizabeth,Jane,8,0.0
+Jane,Elizabeth,11,-0.296
+Elizabeth,Jane,23,0.5423
+Jane,Elizabeth,29,0.0
+Elizabeth,Jane,67,0.9085
+Mr. Collins,Elizabeth,124,0.9038
+Mr. Collins,Charlotte Lucas,124,0.9038
+Elizabeth,Mr. Collins,10,0.0
+Elizabeth,Charlotte Lucas,10,0.0
+Mr. Collins,Elizabeth,39,0.7264
+Mr. Collins,Charlotte Lucas,39,0.7264
+Mr. Collins,Elizabeth,165,0.9325
+Mr. Collins,Charlotte Lucas,165,0.9325
+Mr. Collins,Elizabeth,73,0.9401
+Mrs. Bennet,Mr. Darcy,37,0.0747
+Mrs. Bennet,Elizabeth,37,0.0747
+Mrs. Bennet,Lady Lucas,37,0.0747
+Elizabeth,Lady Lucas,26,0.224
+Elizabeth,Mrs. Bennet,26,0.224
+Mr. Bennet,Mr. Darcy,21,0.6901
+Mr. Bennet,Elizabeth,21,0.6901
+Mr. Bennet,Mrs. Hurst,21,0.6901
+Mr. Bennet,Mrs. Bennet,21,0.6901
+Mr. Bennet,Mr. Bingley,21,0.6901
+Mr. Bennet,Jane,21,0.6901
+Mr. Bennet,Mr. Collins,21,0.6901
+Mr. Bennet,Miss Bingley,21,0.6901
+Mr. Bennet,Lady Lucas,21,0.6901
+Mr. Collins,Mary,205,0.9937
+Mr. Collins,Elizabeth,205,0.9937
+Mr. Collins,Mr. Darcy,205,0.9937
+Mr. Collins,Mrs. Hurst,205,0.9937
+Mr. Collins,Mrs. Bennet,205,0.9937
+Mr. Collins,Mr. Bingley,205,0.9937
+Mr. Collins,Jane,205,0.9937
+Mr. Collins,Miss Bingley,205,0.9937
+Mr. Collins,Lady Lucas,205,0.9937
+Mr. Collins,Mr. Bennet,205,0.9937
+Lydia,Mary,5,-0.4926
+Lydia,Elizabeth,5,-0.4926
+Lydia,Mr. Darcy,5,-0.4926
+Lydia,Mrs. Bennet,5,-0.4926
+Lydia,Kitty,5,-0.4926
+Lydia,Mr. Collins,5,-0.4926
+Lydia,Mr. Bennet,5,-0.4926
+Mr. Collins,Elizabeth,30,0.8979
+Mr. Collins,Mrs. Bennet,30,0.8979
+Mr. Collins,Kitty,30,0.8979
+Mrs. Bennet,Elizabeth,22,0.4574
+Mrs. Bennet,Kitty,22,0.4574
+Mrs. Bennet,Mr. Collins,22,0.4574
+Elizabeth,Mrs. Bennet,32,0.4404
+Elizabeth,Kitty,32,0.4404
+Elizabeth,Mr. Collins,32,0.4404
+Mrs. Bennet,Elizabeth,21,-0.5267
+Mrs. Bennet,Kitty,21,-0.5267
+Mrs. Bennet,Mr. Collins,21,-0.5267
+Mr. Collins,Elizabeth,142,0.9051
+Mr. Collins,Elizabeth,422,0.9885
+Elizabeth,Mr. Collins,54,0.6789
+Mr. Collins,Elizabeth,71,0.2023
+Elizabeth,Mr. Collins,104,0.9592
+Mr. Collins,Elizabeth,52,0.85
+Elizabeth,Mr. Collins,93,0.9647
+Mr. Collins,Elizabeth,85,0.6597
+Elizabeth,Mr. Collins,42,0.5859
+Mr. Collins,Elizabeth,170,0.931
+Elizabeth,Mr. Collins,92,0.9668
+Mr. Collins,Elizabeth,28,0.9223
+Mrs. Bennet,Mr. Collins,43,0.2341
+Mr. Collins,Mrs. Bennet,77,0.3169
+Mrs. Bennet,Mr. Collins,47,0.3626
+Mrs. Bennet,Mr. Bennet,46,0.0
+Mr. Bennet,Mrs. Bennet,13,-0.4585
+Mrs. Bennet,Mr. Bennet,25,0.0
+Mr. Bennet,Mrs. Bennet,13,-0.4588
+Mrs. Bennet,Mr. Bennet,15,0.0
+Mr. Bennet,Mrs. Bennet,10,0.0
+Mr. Bennet,Elizabeth,28,0.6486
+Mr. Bennet,Mrs. Bennet,28,0.6486
+Mr. Bennet,Elizabeth,9,-0.296
+Mr. Bennet,Mrs. Bennet,9,-0.296
+Elizabeth,Mr. Bennet,3,0.0
+Elizabeth,Mrs. Bennet,3,0.0
+Mr. Bennet,Elizabeth,21,0.6115
+Mr. Bennet,Mrs. Bennet,21,0.6115
+Mrs. Bennet,Elizabeth,8,0.4019
+Mrs. Bennet,Mr. Bennet,8,0.4019
+Mr. Bennet,Elizabeth,43,-0.4215
+Mr. Bennet,Mrs. Bennet,43,-0.4215
+Mrs. Bennet,Elizabeth,20,0.3612
+Mrs. Bennet,Mr. Bennet,20,0.3612
+Mr. Bennet,Elizabeth,45,0.9118
+Mr. Bennet,Mrs. Bennet,45,0.9118
+Lydia,Charlotte Lucas,32,0.7644
+Mrs. Bennet,Lydia,27,-0.6124
+Mrs. Bennet,Charlotte Lucas,27,-0.6124
+Mrs. Bennet,Kitty,27,-0.6124
+Mrs. Bennet,Elizabeth,176,0.6483
+Mrs. Bennet,Lydia,176,0.6483
+Mrs. Bennet,Charlotte Lucas,176,0.6483
+Mrs. Bennet,Kitty,176,0.6483
+Mrs. Bennet,Elizabeth,25,0.0
+Mrs. Bennet,Lydia,25,0.0
+Mrs. Bennet,Charlotte Lucas,25,0.0
+Mrs. Bennet,Kitty,25,0.0
+Mrs. Bennet,Mr. Collins,25,0.0
+Mrs. Bennet,Lydia,3,0.0
+Mrs. Bennet,Charlotte Lucas,3,0.0
+Mrs. Bennet,Mr. Collins,3,0.0
+Mr. Collins,Mrs. Bennet,17,0.3818
+Mr. Collins,Lydia,17,0.3818
+Mr. Collins,Charlotte Lucas,17,0.3818
+Mr. Collins,Mrs. Bennet,207,0.9666
+Mr. Collins,Lydia,207,0.9666
+Mr. Collins,Charlotte Lucas,207,0.9666
+George Wickham,Elizabeth,48,0.3612
+Jane,Elizabeth,44,0.7579
+Elizabeth,Jane,70,0.9725
+Jane,Elizabeth,20,-0.3089
+Jane,Elizabeth,13,-0.296
+Elizabeth,Jane,12,-0.1531
+Jane,Elizabeth,38,-0.8121
+Jane,Elizabeth,69,0.8223
+Elizabeth,Jane,11,0.4019
+Jane,Elizabeth,2,0.0
+Elizabeth,Jane,49,0.506
+Elizabeth,Jane,188,0.986
+Jane,Elizabeth,47,-0.8794
+Elizabeth,Jane,40,-0.2998
+Jane,Elizabeth,27,0.978
+Elizabeth,Jane,40,0.128
+Jane,Elizabeth,22,-0.2928
+Elizabeth,Jane,18,0.4588
+Jane,Elizabeth,22,-0.4753
+Elizabeth,Charlotte Lucas,17,0.7184
+Mr. Collins,Mary,35,0.8856
+Mr. Collins,Elizabeth,35,0.8856
+Mr. Collins,Lydia,35,0.8856
+Mr. Collins,Mrs. Bennet,35,0.8856
+Mr. Collins,Kitty,35,0.8856
+Mr. Collins,Mr. Bennet,35,0.8856
+Mr. Bennet,Mary,26,0.068
+Mr. Bennet,Elizabeth,26,0.068
+Mr. Bennet,Lydia,26,0.068
+Mr. Bennet,Mrs. Bennet,26,0.068
+Mr. Bennet,Kitty,26,0.068
+Mr. Bennet,Mr. Collins,26,0.068
+Mr. Collins,Mary,29,0.7469
+Mr. Collins,Elizabeth,29,0.7469
+Mr. Collins,Lydia,29,0.7469
+Mr. Collins,Mrs. Bennet,29,0.7469
+Mr. Collins,Kitty,29,0.7469
+Mr. Collins,Mr. Bennet,29,0.7469
+Mr. Bennet,Mary,49,-0.4019
+Mr. Bennet,Elizabeth,49,-0.4019
+Mr. Bennet,Lydia,49,-0.4019
+Mr. Bennet,Mrs. Bennet,49,-0.4019
+Mr. Bennet,Kitty,49,-0.4019
+Mr. Bennet,Mr. Collins,49,-0.4019
+Mr. Collins,Mary,79,0.9801
+Mr. Collins,Elizabeth,79,0.9801
+Mr. Collins,Lydia,79,0.9801
+Mr. Collins,Mrs. Bennet,79,0.9801
+Mr. Collins,Kitty,79,0.9801
+Mr. Collins,Mr. Bennet,79,0.9801
+Elizabeth,Charlotte Lucas,7,0.7081
+Charlotte Lucas,Elizabeth,35,0.7345
+Charlotte Lucas,Elizabeth,92,0.978
+Elizabeth,Charlotte Lucas,1,0.0
+Lydia,Mary,21,0.5502
+Lydia,Elizabeth,21,0.5502
+Lydia,Mrs. Bennet,21,0.5502
+Lydia,Kitty,21,0.5502
+Lydia,Sir William Lucas,21,0.5502
+Mrs. Bennet,Mr. Bennet,39,-0.6105
+Mr. Bennet,Mrs. Bennet,26,0.8658
+Mrs. Bennet,Mr. Bennet,24,0.0
+Mr. Bennet,Mrs. Bennet,5,0.0
+Mrs. Bennet,Mr. Bennet,8,0.0
+Mr. Bennet,Mrs. Bennet,14,0.5719
+Mrs. Bennet,Mr. Bennet,49,-0.509
+Mr. Bennet,Mrs. Bennet,7,-0.0516
+Jane,Elizabeth,49,-0.3054
+Jane,Elizabeth,58,0.7867
+Jane,Elizabeth,31,-0.4735
+Elizabeth,Jane,39,0.8783
+Elizabeth,Jane,145,0.8744
+Jane,Elizabeth,78,0.7906
+Elizabeth,Jane,137,0.631
+Jane,Elizabeth,112,0.889
+Elizabeth,Jane,7,0.4939
+Jane,Elizabeth,27,-0.5313
+Elizabeth,Jane,49,-0.9481
+Jane,Elizabeth,9,0.0
+Elizabeth,Jane,27,-0.2382
+Jane,Elizabeth,9,0.0
+Elizabeth,Jane,6,0.7096
+Jane,Elizabeth,30,0.7579
+Elizabeth,Jane,41,0.9756
+Jane,Elizabeth,167,0.9681
+Mr. Bennet,Elizabeth,96,0.9565
+Elizabeth,Mr. Bennet,19,0.9163
+Mr. Bennet,Elizabeth,29,0.9274
+Mrs. Bennet,Mary,164,0.7015
+Mrs. Bennet,Elizabeth,164,0.7015
+Mrs. Bennet,Lydia,164,0.7015
+Mrs. Bennet,Mrs. Gardiner,164,0.7015
+Mrs. Bennet,Kitty,164,0.7015
+Mrs. Gardiner,Elizabeth,62,0.9523
+Elizabeth,Mrs. Gardiner,56,0.8432
+Mrs. Gardiner,Elizabeth,47,0.9175
+Elizabeth,Mrs. Gardiner,72,0.8182
+Mrs. Gardiner,Elizabeth,81,0.9071
+Mrs. Gardiner,Elizabeth,56,0.4215
+Elizabeth,Mrs. Gardiner,86,-0.0998
+Mrs. Gardiner,Elizabeth,28,0.7637
+Elizabeth,Mrs. Gardiner,6,-0.2732
+Mrs. Gardiner,Elizabeth,133,0.919
+Elizabeth,Mrs. Gardiner,8,0.3182
+Mrs. Gardiner,Elizabeth,11,0.7717
+Elizabeth,Mrs. Gardiner,33,-0.0946
+Mrs. Gardiner,Elizabeth,6,0.0572
+Elizabeth,Mrs. Gardiner,213,0.9909
+Mrs. Gardiner,Elizabeth,26,0.1531
+Elizabeth,Mrs. Gardiner,82,0.9776
+Charlotte Lucas,Elizabeth,10,0.0
+Elizabeth,Charlotte Lucas,4,0.34
+Charlotte Lucas,Elizabeth,13,0.4404
+Elizabeth,Charlotte Lucas,8,0.4404
+Charlotte Lucas,Elizabeth,17,0.3502
+Charlotte Lucas,Elizabeth,35,0.8591
+Mrs. Gardiner,Elizabeth,20,0.7469
+Elizabeth,Mrs. Gardiner,63,0.6767
+Mrs. Gardiner,Elizabeth,19,-0.2247
+Elizabeth,Mrs. Gardiner,16,-0.3626
+Mrs. Gardiner,Elizabeth,18,-0.7469
+Elizabeth,Mrs. Gardiner,41,0.5472
+Mrs. Gardiner,Elizabeth,15,0.0
+Elizabeth,Mrs. Gardiner,28,0.0772
+Mrs. Gardiner,Elizabeth,18,0.128
+Elizabeth,Mrs. Gardiner,15,0.0
+Mrs. Gardiner,Elizabeth,29,-0.6486
+Elizabeth,Mrs. Gardiner,73,-0.7734
+Mrs. Gardiner,Elizabeth,9,0.25
+Mrs. Gardiner,Elizabeth,16,-0.1597
+Elizabeth,Mrs. Gardiner,114,0.8425
+Mr. Collins,Elizabeth,126,0.9651
+Mr. Collins,Charlotte Lucas,126,0.9651
+Mr. Collins,Maria,126,0.9651
+Charlotte Lucas,Elizabeth,14,0.4927
+Charlotte Lucas,Mr. Collins,14,0.4927
+Charlotte Lucas,Maria,14,0.4927
+Mr. Collins,Elizabeth,24,0.7146
+Mr. Collins,Charlotte Lucas,24,0.7146
+Mr. Collins,Maria,24,0.7146
+Maria,Elizabeth,36,0.6688
+Elizabeth,Maria,26,0.0
+Maria,Elizabeth,45,0.3786
+Elizabeth,Maria,20,-0.4588
+Maria,Elizabeth,19,0.7712
+Elizabeth,Maria,24,0.5984
+Mr. Collins,Elizabeth,75,0.1882
+Mr. Collins,Charlotte Lucas,75,0.1882
+Mr. Collins,Sir William Lucas,75,0.1882
+Mr. Collins,Maria,75,0.1882
+Sir William Lucas,Elizabeth,42,0.8319
+Sir William Lucas,Charlotte Lucas,42,0.8319
+Sir William Lucas,Mr. Collins,42,0.8319
+Sir William Lucas,Maria,42,0.8319
+Mr. Collins,Elizabeth,75,0.9265
+Lady Catherine De Bourgh,Elizabeth,47,0.1027
+Lady Catherine De Bourgh,Mrs. Jenkinson,47,0.1027
+Lady Catherine De Bourgh,Charlotte Lucas,47,0.1027
+Lady Catherine De Bourgh,Miss De Bourgh,47,0.1027
+Lady Catherine De Bourgh,Maria,47,0.1027
+Elizabeth,Mrs. Jenkinson,2,0.0
+Elizabeth,Lady Catherine De Bourgh,2,0.0
+Elizabeth,Charlotte Lucas,2,0.0
+Elizabeth,Miss De Bourgh,2,0.0
+Elizabeth,Maria,2,0.0
+Lady Catherine De Bourgh,Elizabeth,31,0.8718
+Lady Catherine De Bourgh,Mrs. Jenkinson,31,0.8718
+Lady Catherine De Bourgh,Charlotte Lucas,31,0.8718
+Lady Catherine De Bourgh,Miss De Bourgh,31,0.8718
+Lady Catherine De Bourgh,Maria,31,0.8718
+Elizabeth,Mrs. Jenkinson,4,0.0
+Elizabeth,Lady Catherine De Bourgh,4,0.0
+Elizabeth,Charlotte Lucas,4,0.0
+Elizabeth,Miss De Bourgh,4,0.0
+Elizabeth,Maria,4,0.0
+Lady Catherine De Bourgh,Elizabeth,29,-0.3795
+Lady Catherine De Bourgh,Mrs. Jenkinson,29,-0.3795
+Lady Catherine De Bourgh,Charlotte Lucas,29,-0.3795
+Lady Catherine De Bourgh,Miss De Bourgh,29,-0.3795
+Lady Catherine De Bourgh,Maria,29,-0.3795
+Elizabeth,Mrs. Jenkinson,4,-0.296
+Elizabeth,Lady Catherine De Bourgh,4,-0.296
+Elizabeth,Charlotte Lucas,4,-0.296
+Elizabeth,Miss De Bourgh,4,-0.296
+Elizabeth,Maria,4,-0.296
+Lady Catherine De Bourgh,Elizabeth,4,0.0
+Lady Catherine De Bourgh,Mrs. Jenkinson,4,0.0
+Lady Catherine De Bourgh,Charlotte Lucas,4,0.0
+Lady Catherine De Bourgh,Miss De Bourgh,4,0.0
+Lady Catherine De Bourgh,Maria,4,0.0
+Elizabeth,Mrs. Jenkinson,2,0.0
+Elizabeth,Lady Catherine De Bourgh,2,0.0
+Elizabeth,Charlotte Lucas,2,0.0
+Elizabeth,Miss De Bourgh,2,0.0
+Elizabeth,Maria,2,0.0
+Lady Catherine De Bourgh,Elizabeth,26,0.6546
+Lady Catherine De Bourgh,Mrs. Jenkinson,26,0.6546
+Lady Catherine De Bourgh,Charlotte Lucas,26,0.6546
+Lady Catherine De Bourgh,Miss De Bourgh,26,0.6546
+Lady Catherine De Bourgh,Maria,26,0.6546
+Elizabeth,Mrs. Jenkinson,12,-0.6652
+Elizabeth,Lady Catherine De Bourgh,12,-0.6652
+Elizabeth,Charlotte Lucas,12,-0.6652
+Elizabeth,Miss De Bourgh,12,-0.6652
+Elizabeth,Maria,12,-0.6652
+Lady Catherine De Bourgh,Elizabeth,5,0.0
+Lady Catherine De Bourgh,Mrs. Jenkinson,5,0.0
+Lady Catherine De Bourgh,Charlotte Lucas,5,0.0
+Lady Catherine De Bourgh,Miss De Bourgh,5,0.0
+Lady Catherine De Bourgh,Maria,5,0.0
+Elizabeth,Mrs. Jenkinson,5,0.0
+Elizabeth,Lady Catherine De Bourgh,5,0.0
+Elizabeth,Charlotte Lucas,5,0.0
+Elizabeth,Miss De Bourgh,5,0.0
+Elizabeth,Maria,5,0.0
+Lady Catherine De Bourgh,Elizabeth,32,-0.4184
+Lady Catherine De Bourgh,Mrs. Jenkinson,32,-0.4184
+Lady Catherine De Bourgh,Charlotte Lucas,32,-0.4184
+Lady Catherine De Bourgh,Miss De Bourgh,32,-0.4184
+Lady Catherine De Bourgh,Maria,32,-0.4184
+Lady Catherine De Bourgh,Elizabeth,16,-0.5803
+Lady Catherine De Bourgh,Mrs. Jenkinson,16,-0.5803
+Lady Catherine De Bourgh,Charlotte Lucas,16,-0.5803
+Lady Catherine De Bourgh,Miss De Bourgh,16,-0.5803
+Lady Catherine De Bourgh,Maria,16,-0.5803
+Elizabeth,Mrs. Jenkinson,42,0.7469
+Elizabeth,Lady Catherine De Bourgh,42,0.7469
+Elizabeth,Charlotte Lucas,42,0.7469
+Elizabeth,Miss De Bourgh,42,0.7469
+Elizabeth,Maria,42,0.7469
+Lady Catherine De Bourgh,Elizabeth,140,0.9828
+Lady Catherine De Bourgh,Mrs. Jenkinson,140,0.9828
+Lady Catherine De Bourgh,Charlotte Lucas,140,0.9828
+Lady Catherine De Bourgh,Miss De Bourgh,140,0.9828
+Lady Catherine De Bourgh,Maria,140,0.9828
+Lady Catherine De Bourgh,Elizabeth,2,0.0
+Lady Catherine De Bourgh,Mrs. Jenkinson,2,0.0
+Lady Catherine De Bourgh,Charlotte Lucas,2,0.0
+Lady Catherine De Bourgh,Miss De Bourgh,2,0.0
+Lady Catherine De Bourgh,Maria,2,0.0
+Lady Catherine De Bourgh,Elizabeth,9,-0.1531
+Lady Catherine De Bourgh,Mrs. Jenkinson,9,-0.1531
+Lady Catherine De Bourgh,Charlotte Lucas,9,-0.1531
+Lady Catherine De Bourgh,Miss De Bourgh,9,-0.1531
+Lady Catherine De Bourgh,Maria,9,-0.1531
+Elizabeth,Mrs. Jenkinson,3,0.4019
+Elizabeth,Lady Catherine De Bourgh,3,0.4019
+Elizabeth,Charlotte Lucas,3,0.4019
+Elizabeth,Miss De Bourgh,3,0.4019
+Elizabeth,Maria,3,0.4019
+Lady Catherine De Bourgh,Elizabeth,26,0.0
+Lady Catherine De Bourgh,Mrs. Jenkinson,26,0.0
+Lady Catherine De Bourgh,Charlotte Lucas,26,0.0
+Lady Catherine De Bourgh,Miss De Bourgh,26,0.0
+Lady Catherine De Bourgh,Maria,26,0.0
+Elizabeth,Mrs. Jenkinson,92,0.9591
+Elizabeth,Lady Catherine De Bourgh,92,0.9591
+Elizabeth,Charlotte Lucas,92,0.9591
+Elizabeth,Miss De Bourgh,92,0.9591
+Elizabeth,Maria,92,0.9591
+Lady Catherine De Bourgh,Elizabeth,18,0.0
+Lady Catherine De Bourgh,Mrs. Jenkinson,18,0.0
+Lady Catherine De Bourgh,Charlotte Lucas,18,0.0
+Lady Catherine De Bourgh,Miss De Bourgh,18,0.0
+Lady Catherine De Bourgh,Maria,18,0.0
+Elizabeth,Mrs. Jenkinson,15,0.0
+Elizabeth,Lady Catherine De Bourgh,15,0.0
+Elizabeth,Charlotte Lucas,15,0.0
+Elizabeth,Miss De Bourgh,15,0.0
+Elizabeth,Maria,15,0.0
+Lady Catherine De Bourgh,Elizabeth,15,0.0
+Lady Catherine De Bourgh,Mrs. Jenkinson,15,0.0
+Lady Catherine De Bourgh,Charlotte Lucas,15,0.0
+Lady Catherine De Bourgh,Miss De Bourgh,15,0.0
+Lady Catherine De Bourgh,Maria,15,0.0
+Elizabeth,Mrs. Jenkinson,6,0.0
+Elizabeth,Lady Catherine De Bourgh,6,0.0
+Elizabeth,Charlotte Lucas,6,0.0
+Elizabeth,Miss De Bourgh,6,0.0
+Elizabeth,Maria,6,0.0
+Charlotte Lucas,Elizabeth,22,0.3612
+Charlotte Lucas,Maria,22,0.3612
+Elizabeth,Mr. Darcy,18,0.0
+Elizabeth,Charlotte Lucas,18,0.0
+Elizabeth,Colonel Fitzwilliam,18,0.0
+Lady Catherine De Bourgh,Mr. Darcy,26,-0.2824
+Lady Catherine De Bourgh,Elizabeth,26,-0.2824
+Lady Catherine De Bourgh,Charlotte Lucas,26,-0.2824
+Lady Catherine De Bourgh,Colonel Fitzwilliam,26,-0.2824
+Colonel Fitzwilliam,Mr. Darcy,6,0.0
+Colonel Fitzwilliam,Elizabeth,6,0.0
+Colonel Fitzwilliam,Charlotte Lucas,6,0.0
+Colonel Fitzwilliam,Lady Catherine De Bourgh,6,0.0
+Lady Catherine De Bourgh,Mr. Darcy,88,0.9849
+Lady Catherine De Bourgh,Elizabeth,88,0.9849
+Lady Catherine De Bourgh,Charlotte Lucas,88,0.9849
+Lady Catherine De Bourgh,Colonel Fitzwilliam,88,0.9849
+Lady Catherine De Bourgh,Mr. Darcy,32,0.4057
+Lady Catherine De Bourgh,Elizabeth,32,0.4057
+Lady Catherine De Bourgh,Charlotte Lucas,32,0.4057
+Lady Catherine De Bourgh,Colonel Fitzwilliam,32,0.4057
+Mr. Darcy,Elizabeth,15,0.34
+Mr. Darcy,Lady Catherine De Bourgh,15,0.34
+Mr. Darcy,Charlotte Lucas,15,0.34
+Mr. Darcy,Colonel Fitzwilliam,15,0.34
+Lady Catherine De Bourgh,Mr. Darcy,109,0.6038
+Lady Catherine De Bourgh,Elizabeth,109,0.6038
+Lady Catherine De Bourgh,Charlotte Lucas,109,0.6038
+Lady Catherine De Bourgh,Colonel Fitzwilliam,109,0.6038
+Elizabeth,Mr. Darcy,57,0.6329
+Elizabeth,Colonel Fitzwilliam,57,0.6329
+Mr. Darcy,Elizabeth,51,0.8934
+Mr. Darcy,Colonel Fitzwilliam,51,0.8934
+Elizabeth,Mr. Darcy,104,0.5321
+Elizabeth,Colonel Fitzwilliam,104,0.5321
+Mr. Darcy,Elizabeth,6,0.0
+Mr. Darcy,Colonel Fitzwilliam,6,0.0
+Colonel Fitzwilliam,Mr. Darcy,21,0.4588
+Colonel Fitzwilliam,Elizabeth,21,0.4588
+Elizabeth,Mr. Darcy,84,-0.5645
+Elizabeth,Colonel Fitzwilliam,84,-0.5645
+Mr. Darcy,Elizabeth,19,0.7506
+Mr. Darcy,Colonel Fitzwilliam,19,0.7506
+Elizabeth,Mr. Darcy,24,0.743
+Elizabeth,Colonel Fitzwilliam,24,0.743
+Mr. Darcy,Elizabeth,21,0.128
+Mr. Darcy,Colonel Fitzwilliam,21,0.128
+Elizabeth,Mr. Darcy,35,-0.168
+Elizabeth,Colonel Fitzwilliam,35,-0.168
+Colonel Fitzwilliam,Mr. Darcy,19,-0.4019
+Colonel Fitzwilliam,Elizabeth,19,-0.4019
+Mr. Darcy,Elizabeth,38,0.6331
+Mr. Darcy,Colonel Fitzwilliam,38,0.6331
+Elizabeth,Mr. Darcy,73,0.9009
+Elizabeth,Colonel Fitzwilliam,73,0.9009
+Mr. Darcy,Elizabeth,32,0.8316
+Mr. Darcy,Colonel Fitzwilliam,32,0.8316
+Lady Catherine De Bourgh,Mr. Darcy,51,0.7474
+Lady Catherine De Bourgh,Elizabeth,51,0.7474
+Lady Catherine De Bourgh,Colonel Fitzwilliam,51,0.7474
+Elizabeth,Mr. Darcy,53,0.86
+Mr. Darcy,Elizabeth,4,0.7717
+Elizabeth,Mr. Darcy,18,0.0
+Mr. Darcy,Elizabeth,42,0.8807
+Elizabeth,Mr. Darcy,69,0.5927
+Mr. Darcy,Elizabeth,19,-0.1695
+Mr. Darcy,Elizabeth,23,0.8268
+Elizabeth,Mr. Darcy,19,0.8221
+Mr. Darcy,Elizabeth,11,0.4927
+Elizabeth,Mr. Darcy,75,0.9893
+Mr. Darcy,Elizabeth,21,0.8731
+Elizabeth,Mr. Darcy,12,0.4404
+Mr. Darcy,Elizabeth,23,0.8176
+Elizabeth,Mr. Darcy,27,0.0
+Mr. Darcy,Elizabeth,23,0.296
+Elizabeth,Mr. Darcy,91,0.7992
+Mr. Darcy,Elizabeth,18,0.7233
+Mr. Darcy,Elizabeth,5,0.4404
+Charlotte Lucas,Elizabeth,29,0.7959
+Charlotte Lucas,Maria,29,0.7959
+Elizabeth,Colonel Fitzwilliam,11,0.0
+Colonel Fitzwilliam,Elizabeth,31,0.0
+Elizabeth,Colonel Fitzwilliam,8,-0.296
+Elizabeth,Colonel Fitzwilliam,7,0.296
+Colonel Fitzwilliam,Elizabeth,22,0.5499
+Elizabeth,Colonel Fitzwilliam,42,0.9204
+Colonel Fitzwilliam,Elizabeth,52,0.8018
+Elizabeth,Colonel Fitzwilliam,49,-0.168
+Colonel Fitzwilliam,Elizabeth,38,0.3291
+Elizabeth,Colonel Fitzwilliam,14,0.3612
+Colonel Fitzwilliam,Elizabeth,28,0.0
+Elizabeth,Colonel Fitzwilliam,29,0.3182
+Elizabeth,Colonel Fitzwilliam,59,0.9068
+Colonel Fitzwilliam,Elizabeth,22,-0.2023
+Elizabeth,Colonel Fitzwilliam,47,0.6037
+Elizabeth,Colonel Fitzwilliam,55,0.8422
+Colonel Fitzwilliam,Elizabeth,18,0.891
+Elizabeth,Colonel Fitzwilliam,19,0.8622
+Colonel Fitzwilliam,Elizabeth,65,0.6948
+Elizabeth,Colonel Fitzwilliam,5,0.0
+Colonel Fitzwilliam,Elizabeth,32,-0.6551
+Elizabeth,Colonel Fitzwilliam,8,0.0
+Colonel Fitzwilliam,Elizabeth,84,0.1655
+Elizabeth,Colonel Fitzwilliam,10,0.0
+Colonel Fitzwilliam,Elizabeth,12,0.5563
+Elizabeth,Colonel Fitzwilliam,9,0.0
+Colonel Fitzwilliam,Elizabeth,20,0.0
+Elizabeth,Colonel Fitzwilliam,25,0.0
+Colonel Fitzwilliam,Elizabeth,9,0.0
+Elizabeth,Colonel Fitzwilliam,69,0.8352
+Colonel Fitzwilliam,Elizabeth,18,0.7236
+Colonel Fitzwilliam,Elizabeth,9,0.5563
+Mr. Darcy,Elizabeth,29,0.7151
+Elizabeth,Mr. Darcy,113,-0.3687
+Mr. Darcy,Elizabeth,39,0.68
+Elizabeth,Mr. Darcy,104,0.8784
+Elizabeth,Mr. Darcy,78,-0.913
+Elizabeth,Mr. Darcy,8,-0.34
+Mr. Darcy,Elizabeth,37,0.9022
+Elizabeth,Mr. Darcy,71,-0.7839
+Mr. Darcy,Elizabeth,9,0.6705
+Elizabeth,Mr. Darcy,15,0.7351
+Mr. Darcy,Elizabeth,9,0.7959
+Elizabeth,Mr. Darcy,71,-0.8622
+Mr. Darcy,Elizabeth,151,0.7644
+Elizabeth,Mr. Darcy,43,-0.7003
+Elizabeth,Mr. Darcy,23,0.7003
+Elizabeth,Mr. Darcy,87,-0.6983
+Mr. Darcy,Elizabeth,45,0.9378
+Mr. Darcy,Elizabeth,25,0.765
+Lady Catherine De Bourgh,Elizabeth,80,0.8894
+Lady Catherine De Bourgh,Anne De Bourgh,80,0.8894
+Lady Catherine De Bourgh,Charlotte Lucas,80,0.8894
+Lady Catherine De Bourgh,Mr. Collins,80,0.8894
+Lady Catherine De Bourgh,Elizabeth,33,0.8121
+Lady Catherine De Bourgh,Anne De Bourgh,33,0.8121
+Lady Catherine De Bourgh,Charlotte Lucas,33,0.8121
+Lady Catherine De Bourgh,Mr. Collins,33,0.8121
+Elizabeth,Anne De Bourgh,27,0.6808
+Elizabeth,Lady Catherine De Bourgh,27,0.6808
+Elizabeth,Charlotte Lucas,27,0.6808
+Elizabeth,Mr. Collins,27,0.6808
+Lady Catherine De Bourgh,Elizabeth,46,0.0516
+Lady Catherine De Bourgh,Anne De Bourgh,46,0.0516
+Lady Catherine De Bourgh,Charlotte Lucas,46,0.0516
+Lady Catherine De Bourgh,Mr. Collins,46,0.0516
+Elizabeth,Anne De Bourgh,11,0.0
+Elizabeth,Lady Catherine De Bourgh,11,0.0
+Elizabeth,Charlotte Lucas,11,0.0
+Elizabeth,Mr. Collins,11,0.0
+Lady Catherine De Bourgh,Elizabeth,99,0.6989
+Lady Catherine De Bourgh,Anne De Bourgh,99,0.6989
+Lady Catherine De Bourgh,Charlotte Lucas,99,0.6989
+Lady Catherine De Bourgh,Mr. Collins,99,0.6989
+Elizabeth,Anne De Bourgh,15,0.6059
+Elizabeth,Lady Catherine De Bourgh,15,0.6059
+Elizabeth,Charlotte Lucas,15,0.6059
+Elizabeth,Mr. Collins,15,0.6059
+Lady Catherine De Bourgh,Elizabeth,150,0.5574
+Lady Catherine De Bourgh,Anne De Bourgh,150,0.5574
+Lady Catherine De Bourgh,Charlotte Lucas,150,0.5574
+Lady Catherine De Bourgh,Mr. Collins,150,0.5574
+Elizabeth,Anne De Bourgh,9,0.0
+Elizabeth,Lady Catherine De Bourgh,9,0.0
+Elizabeth,Charlotte Lucas,9,0.0
+Elizabeth,Mr. Collins,9,0.0
+Lady Catherine De Bourgh,Elizabeth,38,0.6735
+Lady Catherine De Bourgh,Anne De Bourgh,38,0.6735
+Lady Catherine De Bourgh,Charlotte Lucas,38,0.6735
+Lady Catherine De Bourgh,Mr. Collins,38,0.6735
+Mr. Collins,Elizabeth,121,0.9488
+Mr. Collins,Elizabeth,140,0.9834
+Mr. Collins,Elizabeth,130,0.9572
+Mr. Collins,Elizabeth,28,0.9604
+Mr. Collins,Maria,28,0.9604
+Maria,Elizabeth,19,0.6281
+Elizabeth,Maria,4,0.6249
+Maria,Elizabeth,18,0.0
+Lydia,Elizabeth,73,0.92
+Lydia,Kitty,73,0.92
+Lydia,Jane,73,0.92
+Lydia,Maria,73,0.92
+Lydia,Elizabeth,56,-0.3903
+Lydia,Kitty,56,-0.3903
+Lydia,Jane,56,-0.3903
+Lydia,Maria,56,-0.3903
+Elizabeth,Jane,3,0.0
+Elizabeth,Kitty,3,0.0
+Elizabeth,Maria,3,0.0
+Elizabeth,Lydia,3,0.0
+Lydia,Elizabeth,59,0.6826
+Lydia,Kitty,59,0.6826
+Lydia,Jane,59,0.6826
+Lydia,Maria,59,0.6826
+Lydia,Elizabeth,27,0.8074
+Lydia,Kitty,27,0.8074
+Lydia,Jane,27,0.8074
+Lydia,Maria,27,0.8074
+Lydia,Elizabeth,103,0.8114
+Lydia,Kitty,103,0.8114
+Lydia,Jane,103,0.8114
+Lydia,Maria,103,0.8114
+Elizabeth,Jane,13,0.7263
+Elizabeth,Kitty,13,0.7263
+Elizabeth,Maria,13,0.7263
+Elizabeth,Lydia,13,0.7263
+Lydia,Elizabeth,12,0.6124
+Lydia,Kitty,12,0.6124
+Lydia,Jane,12,0.6124
+Lydia,Maria,12,0.6124
+Jane,Elizabeth,11,0.8519
+Jane,Lydia,11,0.8519
+Jane,Kitty,11,0.8519
+Jane,Maria,11,0.8519
+Lydia,Elizabeth,29,-0.5621
+Lydia,Kitty,29,-0.5621
+Lydia,Jane,29,-0.5621
+Lydia,Maria,29,-0.5621
+Lydia,Elizabeth,361,0.9792
+Lydia,Kitty,361,0.9792
+Lydia,Jane,361,0.9792
+Lydia,Maria,361,0.9792
+Mr. Bennet,Mary,8,0.4588
+Mr. Bennet,Elizabeth,8,0.4588
+Mr. Bennet,Mrs. Bennet,8,0.4588
+Mr. Bennet,Lydia,8,0.4588
+Mr. Bennet,Kitty,8,0.4588
+Mr. Bennet,Lady Lucas,8,0.4588
+Mr. Bennet,Sir William Lucas,8,0.4588
+Mr. Bennet,Maria,8,0.4588
+Lydia,Mary,142,0.9815
+Lydia,Elizabeth,142,0.9815
+Lydia,Mrs. Bennet,142,0.9815
+Lydia,Kitty,142,0.9815
+Lydia,Mr. Bennet,142,0.9815
+Lydia,Lady Lucas,142,0.9815
+Lydia,Sir William Lucas,142,0.9815
+Lydia,Maria,142,0.9815
+Mary,Elizabeth,39,0.6428
+Mary,Mrs. Bennet,39,0.6428
+Mary,Lydia,39,0.6428
+Mary,Kitty,39,0.6428
+Mary,Mr. Bennet,39,0.6428
+Mary,Lady Lucas,39,0.6428
+Mary,Sir William Lucas,39,0.6428
+Mary,Maria,39,0.6428
+Jane,Elizabeth,24,0.097
+Elizabeth,Jane,31,-0.2837
+Jane,Elizabeth,4,-0.5983
+Elizabeth,Jane,11,0.3893
+Jane,Elizabeth,13,-0.4767
+Elizabeth,Jane,16,0.0
+Elizabeth,Jane,77,0.9552
+Jane,Elizabeth,67,-0.9602
+Elizabeth,Jane,58,-0.5344
+Jane,Elizabeth,20,0.3802
+Elizabeth,Jane,28,0.8591
+Jane,Elizabeth,17,0.0
+Elizabeth,Jane,66,-0.6928
+Jane,Elizabeth,20,-0.0083
+Elizabeth,Jane,56,-0.8291
+Jane,Elizabeth,25,0.1513
+Elizabeth,Jane,50,0.5632
+Jane,Elizabeth,16,-0.659
+Elizabeth,Jane,140,-0.8622
+Jane,Elizabeth,37,-0.7606
+Mrs. Bennet,Elizabeth,102,-0.7658
+Elizabeth,Mrs. Bennet,13,0.0
+Mrs. Bennet,Elizabeth,63,-0.5697
+Mrs. Bennet,Elizabeth,58,0.9418
+Elizabeth,Mrs. Bennet,4,-0.296
+Mrs. Bennet,Elizabeth,63,0.9511
+Elizabeth,Mrs. Bennet,11,0.0
+Mrs. Bennet,Elizabeth,53,-0.1165
+Mrs. Bennet,Mary,23,-0.4767
+Mrs. Bennet,Elizabeth,23,-0.4767
+Mrs. Bennet,Lydia,23,-0.4767
+Mrs. Bennet,Kitty,23,-0.4767
+Mrs. Bennet,Jane,23,-0.4767
+Lydia,Mary,7,0.3182
+Lydia,Elizabeth,7,0.3182
+Lydia,Mrs. Bennet,7,0.3182
+Lydia,Kitty,7,0.3182
+Mrs. Bennet,Mary,7,0.0
+Mrs. Bennet,Elizabeth,7,0.0
+Mrs. Bennet,Lydia,7,0.0
+Mrs. Bennet,Kitty,7,0.0
+Mrs. Bennet,Jane,7,0.0
+Lydia,Mary,13,-0.7446
+Lydia,Elizabeth,13,-0.7446
+Lydia,Mrs. Bennet,13,-0.7446
+Lydia,Kitty,13,-0.7446
+Kitty,Mary,15,0.8519
+Kitty,Elizabeth,15,0.8519
+Kitty,Mrs. Bennet,15,0.8519
+Kitty,Lydia,15,0.8519
+Kitty,Elizabeth,42,0.6486
+Kitty,Jane,42,0.6486
+Mr. Bennet,Elizabeth,39,-0.6049
+Elizabeth,Mr. Bennet,42,0.5595
+Mr. Bennet,Elizabeth,56,-0.6893
+Elizabeth,Mr. Bennet,219,-0.9735
+Mr. Bennet,Elizabeth,150,0.9601
+George Wickham,Elizabeth,10,0.0
+Elizabeth,George Wickham,3,0.0
+George Wickham,Elizabeth,5,0.0
+Elizabeth,George Wickham,4,0.4019
+George Wickham,Elizabeth,8,0.0
+Elizabeth,George Wickham,11,0.6757
+George Wickham,Elizabeth,36,0.7668
+Elizabeth,George Wickham,14,-0.3595
+Elizabeth,George Wickham,35,0.8945
+George Wickham,Elizabeth,140,0.9125
+Mrs. Gardiner,Elizabeth,37,0.4749
+Mrs. Gardiner,Mr. Gardiner,37,0.4749
+Mrs. Gardiner,Elizabeth,31,0.7741
+Mrs. Gardiner,Mr. Gardiner,31,0.7741
+Mrs. Reynolds,Elizabeth,11,0.8271
+Mrs. Reynolds,Mrs. Gardiner,11,0.8271
+Mrs. Reynolds,Mr. Gardiner,11,0.8271
+Mrs. Reynolds,Elizabeth,17,0.0
+Mrs. Reynolds,Mrs. Gardiner,17,0.0
+Mrs. Reynolds,Mr. Gardiner,17,0.0
+Mrs. Reynolds,Elizabeth,21,0.4201
+Mrs. Reynolds,Mrs. Gardiner,21,0.4201
+Mrs. Reynolds,Mr. Gardiner,21,0.4201
+Mrs. Gardiner,Elizabeth,26,0.6956
+Mrs. Gardiner,Mrs. Reynolds,26,0.6956
+Mrs. Gardiner,Mr. Gardiner,26,0.6956
+Mrs. Reynolds,Elizabeth,7,0.0
+Mrs. Reynolds,Mrs. Gardiner,7,0.0
+Mrs. Reynolds,Mr. Gardiner,7,0.0
+Elizabeth,Mrs. Gardiner,2,0.0
+Elizabeth,Mr. Gardiner,2,0.0
+Elizabeth,Mrs. Reynolds,2,0.0
+Mrs. Reynolds,Elizabeth,11,0.5413
+Mrs. Reynolds,Mrs. Gardiner,11,0.5413
+Mrs. Reynolds,Mr. Gardiner,11,0.5413
+Elizabeth,Mrs. Gardiner,3,0.7346
+Elizabeth,Mr. Gardiner,3,0.7346
+Elizabeth,Mrs. Reynolds,3,0.7346
+Mrs. Reynolds,Elizabeth,50,0.584
+Mrs. Reynolds,Mrs. Gardiner,50,0.584
+Mrs. Reynolds,Mr. Gardiner,50,0.584
+Mr. Gardiner,Elizabeth,9,0.3818
+Mr. Gardiner,Mrs. Reynolds,9,0.3818
+Mr. Gardiner,Mrs. Gardiner,9,0.3818
+Mrs. Reynolds,Elizabeth,41,0.7552
+Mrs. Reynolds,Mrs. Gardiner,41,0.7552
+Mrs. Reynolds,Mr. Gardiner,41,0.7552
+Mr. Gardiner,Elizabeth,12,0.0
+Mr. Gardiner,Mrs. Reynolds,12,0.0
+Mr. Gardiner,Mrs. Gardiner,12,0.0
+Mrs. Reynolds,Elizabeth,29,-0.0129
+Mrs. Reynolds,Mrs. Gardiner,29,-0.0129
+Mrs. Reynolds,Mr. Gardiner,29,-0.0129
+Mr. Gardiner,Elizabeth,11,0.0
+Mr. Gardiner,Mrs. Reynolds,11,0.0
+Mr. Gardiner,Mrs. Gardiner,11,0.0
+Mrs. Reynolds,Elizabeth,21,0.6908
+Mrs. Reynolds,Mrs. Gardiner,21,0.6908
+Mrs. Reynolds,Mr. Gardiner,21,0.6908
+Elizabeth,Mrs. Gardiner,15,0.5994
+Elizabeth,Mr. Gardiner,15,0.5994
+Elizabeth,Mrs. Reynolds,15,0.5994
+Mrs. Reynolds,Elizabeth,40,0.0935
+Mrs. Reynolds,Mrs. Gardiner,40,0.0935
+Mrs. Reynolds,Mr. Gardiner,40,0.0935
+Mr. Gardiner,Elizabeth,20,0.4215
+Mr. Gardiner,Mrs. Reynolds,20,0.4215
+Mr. Gardiner,Mrs. Gardiner,20,0.4215
+Mrs. Reynolds,Elizabeth,51,0.0379
+Mrs. Reynolds,Mrs. Gardiner,51,0.0379
+Mrs. Reynolds,Mr. Gardiner,51,0.0379
+Mrs. Gardiner,Elizabeth,6,0.5719
+Mrs. Gardiner,Mrs. Reynolds,6,0.5719
+Mrs. Gardiner,Mr. Gardiner,6,0.5719
+Mrs. Reynolds,Elizabeth,19,0.2732
+Mrs. Reynolds,Mrs. Gardiner,19,0.2732
+Mrs. Reynolds,Mr. Gardiner,19,0.2732
+Mrs. Reynolds,Elizabeth,74,0.9174
+Mrs. Reynolds,Mrs. Gardiner,74,0.9174
+Mrs. Reynolds,Mr. Gardiner,74,0.9174
+Mrs. Gardiner,Elizabeth,16,0.2263
+Elizabeth,Mrs. Gardiner,5,-0.4404
+Mrs. Gardiner,Elizabeth,10,0.5367
+Elizabeth,Mrs. Gardiner,6,0.6486
+Elizabeth,Mr. Gardiner,6,0.6486
+Elizabeth,Mrs. Reynolds,6,0.6486
+Mrs. Reynolds,Elizabeth,32,0.7184
+Mrs. Reynolds,Mrs. Gardiner,32,0.7184
+Mrs. Reynolds,Mr. Gardiner,32,0.7184
+Elizabeth,Mrs. Gardiner,2,0.8225
+Elizabeth,Mr. Darcy,2,0.8225
+Elizabeth,Mr. Gardiner,2,0.8225
+Elizabeth,Mrs. Gardiner,31,0.34
+Elizabeth,Mr. Darcy,31,0.34
+Elizabeth,Mr. Gardiner,31,0.34
+Mr. Darcy,Elizabeth,61,0.7889
+Mr. Darcy,Mrs. Gardiner,61,0.7889
+Mr. Darcy,Mr. Gardiner,61,0.7889
+Mr. Gardiner,Elizabeth,8,0.743
+Mr. Gardiner,Mrs. Gardiner,8,0.743
+Mrs. Gardiner,Elizabeth,43,0.7003
+Mrs. Gardiner,Mr. Gardiner,43,0.7003
+Mr. Gardiner,Elizabeth,35,-0.4736
+Mr. Gardiner,Mrs. Gardiner,35,-0.4736
+Mrs. Gardiner,Elizabeth,36,-0.3999
+Mrs. Gardiner,Mr. Gardiner,36,-0.3999
+Mr. Gardiner,Elizabeth,42,0.7236
+Mr. Gardiner,Mrs. Gardiner,42,0.7236
+Mrs. Gardiner,Elizabeth,117,0.9505
+Mrs. Gardiner,Mr. Gardiner,117,0.9505
+Mr. Bingley,Elizabeth,22,0.0
+Miss Bingley,Mr. Darcy,20,0.5423
+Miss Bingley,Elizabeth,20,0.5423
+Miss Bingley,Mrs. Gardiner,20,0.5423
+Miss Bingley,Mr. Gardiner,20,0.5423
+Miss Bingley,Mr. Bingley,20,0.5423
+Miss Bingley,Miss Darcy,20,0.5423
+Miss Bingley,Miss Darcy,47,-0.2465
+Miss Bingley,Mr. Darcy,47,-0.2465
+Miss Bingley,Miss Darcy,104,0.396
+Miss Bingley,Mr. Darcy,104,0.396
+Miss Bingley,Miss Darcy,56,0.9127
+Miss Bingley,Mr. Darcy,56,0.9127
+Mr. Darcy,Miss Bingley,29,0.775
+Mr. Darcy,Miss Darcy,29,0.775
+Elizabeth,Elizabeth,6,0.0
+Elizabeth,Mr. Darcy,29,-0.2962
+Mr. Darcy,Elizabeth,34,0.3153
+Mr. Darcy,Elizabeth,26,-0.5351
+Elizabeth,Mr. Darcy,30,-0.4733
+Elizabeth,Mr. Darcy,68,-0.8402
+Elizabeth,Mr. Darcy,50,0.1615
+Mr. Darcy,Elizabeth,11,0.5106
+Elizabeth,Mr. Darcy,24,0.5255
+Mr. Darcy,Elizabeth,12,0.0
+Elizabeth,Mr. Darcy,68,0.5847
+Elizabeth,Mr. Darcy,33,-0.6093
+Mr. Darcy,Elizabeth,84,0.5499
+Elizabeth,Mr. Darcy,36,0.7574
+Mrs. Gardiner,Elizabeth,22,0.0
+Mrs. Gardiner,Mr. Gardiner,22,0.0
+Elizabeth,Mrs. Gardiner,18,0.6908
+Elizabeth,Mr. Gardiner,18,0.6908
+Mrs. Gardiner,Elizabeth,4,0.0
+Mrs. Gardiner,Mr. Gardiner,4,0.0
+Mrs. Gardiner,Mrs. Gardiner,21,0.4374
+Mr. Gardiner,Elizabeth,111,0.4966
+Mr. Gardiner,Mrs. Gardiner,111,0.4966
+Elizabeth,Mrs. Gardiner,5,0.0
+Elizabeth,Mr. Gardiner,5,0.0
+Mrs. Gardiner,Elizabeth,54,0.6179
+Mrs. Gardiner,Mr. Gardiner,54,0.6179
+Elizabeth,Mrs. Gardiner,43,-0.3339
+Elizabeth,Mr. Gardiner,43,-0.3339
+Mr. Gardiner,Elizabeth,16,-0.296
+Mr. Gardiner,Mrs. Gardiner,16,-0.296
+Elizabeth,Mrs. Gardiner,29,-0.5242
+Elizabeth,Mr. Gardiner,29,-0.5242
+Mr. Gardiner,Elizabeth,55,-0.1531
+Mr. Gardiner,Mrs. Gardiner,55,-0.1531
+Elizabeth,Mrs. Gardiner,194,0.7697
+Elizabeth,Mr. Gardiner,194,0.7697
+Mr. Gardiner,Elizabeth,29,0.6326
+Mr. Gardiner,Mrs. Gardiner,29,0.6326
+Elizabeth,Mrs. Gardiner,171,-0.8208
+Elizabeth,Mr. Gardiner,171,-0.8208
+Mrs. Gardiner,Elizabeth,20,-0.3662
+Mrs. Gardiner,Mr. Gardiner,20,-0.3662
+Elizabeth,Mrs. Gardiner,76,-0.3001
+Elizabeth,Mr. Gardiner,76,-0.3001
+Mrs. Gardiner,Elizabeth,7,0.0
+Mrs. Gardiner,Mr. Gardiner,7,0.0
+Elizabeth,Mrs. Gardiner,110,-0.3702
+Elizabeth,Mr. Gardiner,110,-0.3702
+Mrs. Gardiner,Elizabeth,21,0.323
+Mrs. Gardiner,Mr. Gardiner,21,0.323
+Elizabeth,Mrs. Gardiner,157,-0.75
+Elizabeth,Mr. Gardiner,157,-0.75
+Mrs. Gardiner,Elizabeth,20,0.1779
+Mrs. Gardiner,Mr. Gardiner,20,0.1779
+Elizabeth,Mrs. Gardiner,116,0.8847
+Elizabeth,Mr. Gardiner,116,0.8847
+Jane,Elizabeth,17,0.872
+Elizabeth,Jane,5,0.0
+Jane,Elizabeth,10,0.4019
+Elizabeth,Jane,7,0.0
+Jane,Elizabeth,51,0.6486
+Elizabeth,Jane,9,0.0
+Jane,Elizabeth,41,0.9592
+Elizabeth,Jane,14,0.0
+Mrs. Bennet,Elizabeth,164,-0.686
+Mrs. Bennet,Mrs. Gardiner,164,-0.686
+Mrs. Bennet,Jane,164,-0.686
+Mrs. Bennet,Mr. Gardiner,164,-0.686
+Mr. Gardiner,Elizabeth,110,-0.804
+Mr. Gardiner,Mrs. Bennet,110,-0.804
+Mr. Gardiner,Mrs. Gardiner,110,-0.804
+Mrs. Bennet,Elizabeth,170,0.1853
+Mrs. Bennet,Mrs. Gardiner,170,0.1853
+Mrs. Bennet,Jane,170,0.1853
+Mrs. Bennet,Mr. Gardiner,170,0.1853
+Mary,Elizabeth,35,-0.2838
+Mary,Elizabeth,60,-0.4633
+Elizabeth,Jane,44,-0.8079
+Jane,Elizabeth,72,-0.664
+Elizabeth,Jane,24,0.5007
+Jane,Elizabeth,46,-0.431
+Elizabeth,Jane,20,0.0516
+Jane,Elizabeth,101,0.9263
+Elizabeth,Jane,7,0.0
+Jane,Elizabeth,4,-0.296
+Elizabeth,Jane,17,-0.4871
+Jane,Elizabeth,49,0.3651
+Elizabeth,Jane,20,0.0
+Jane,Elizabeth,30,0.4019
+Elizabeth,Jane,12,0.0
+Jane,Elizabeth,9,0.0
+Elizabeth,Jane,57,-0.8679
+Jane,Elizabeth,30,-0.8065
+Elizabeth,Jane,22,0.0
+Jane,Elizabeth,62,-0.8702
+Elizabeth,Jane,32,-0.1546
+Jane,Elizabeth,117,0.9815
+Elizabeth,Jane,42,0.8847
+Jane,Elizabeth,162,-0.0772
+Mr. Bennet,Elizabeth,21,-0.3071
+Mr. Bennet,Kitty,21,-0.3071
+Elizabeth,Mr. Bennet,8,0.2924
+Elizabeth,Kitty,8,0.2924
+Mr. Bennet,Elizabeth,50,-0.7712
+Mr. Bennet,Kitty,50,-0.7712
+Elizabeth,Mr. Bennet,8,0.0
+Elizabeth,Kitty,8,0.0
+Mr. Bennet,Elizabeth,9,0.6642
+Mr. Bennet,Kitty,9,0.6642
+Kitty,Elizabeth,9,0.0772
+Kitty,Mr. Bennet,9,0.0772
+Mr. Bennet,Elizabeth,14,0.5719
+Mr. Bennet,Kitty,14,0.5719
+Mr. Bennet,Elizabeth,25,0.128
+Mr. Bennet,Kitty,25,0.128
+Mr. Bennet,Elizabeth,52,0.3382
+Mr. Bennet,Kitty,52,0.3382
+Mr. Bennet,Jane,52,0.3382
+Kitty,Elizabeth,21,0.4404
+Kitty,Jane,21,0.4404
+Kitty,Mr. Bennet,21,0.4404
+Mr. Bennet,Elizabeth,91,-0.7956
+Mr. Bennet,Kitty,91,-0.7956
+Mr. Bennet,Jane,91,-0.7956
+Mr. Bennet,Elizabeth,30,0.8142
+Mr. Bennet,Kitty,30,0.8142
+Mr. Bennet,Jane,30,0.8142
+Mrs. Hill,Elizabeth,31,0.9273
+Mrs. Hill,Jane,31,0.9273
+Jane,Elizabeth,11,0.0
+Jane,Mrs. Hill,11,0.0
+Mrs. Hill,Elizabeth,28,0.3818
+Mrs. Hill,Jane,28,0.3818
+Butler,Elizabeth,15,0.0
+Butler,Jane,15,0.0
+Elizabeth,Jane,12,0.0
+Elizabeth,Mr. Bennet,12,0.0
+Mr. Bennet,Elizabeth,10,0.4019
+Mr. Bennet,Jane,10,0.4019
+Elizabeth,Jane,10,0.2168
+Elizabeth,Mr. Bennet,10,0.2168
+Mr. Bennet,Elizabeth,16,0.6369
+Mr. Bennet,Jane,16,0.6369
+Mr. Bennet,Elizabeth,12,0.0
+Mr. Bennet,Jane,12,0.0
+Jane,Elizabeth,10,0.4389
+Jane,Mr. Bennet,10,0.4389
+Elizabeth,Jane,12,0.0
+Elizabeth,Mr. Bennet,12,0.0
+Jane,Elizabeth,17,0.8329
+Jane,Mr. Bennet,17,0.8329
+Elizabeth,Jane,6,0.0
+Elizabeth,Mr. Bennet,6,0.0
+Mr. Bennet,Elizabeth,7,-0.1531
+Mr. Bennet,Jane,7,-0.1531
+Elizabeth,Jane,19,0.5707
+Elizabeth,Mr. Bennet,19,0.5707
+Jane,Elizabeth,11,-0.6486
+Jane,Mr. Bennet,11,-0.6486
+Mr. Bennet,Elizabeth,10,-0.2023
+Mr. Bennet,Jane,10,-0.2023
+Elizabeth,Jane,13,0.0
+Elizabeth,Mr. Bennet,13,0.0
+Mr. Bennet,Elizabeth,11,-0.5255
+Mr. Bennet,Jane,11,-0.5255
+Elizabeth,Jane,10,0.0
+Elizabeth,Mr. Bennet,10,0.0
+Mr. Bennet,Elizabeth,47,0.3716
+Mr. Bennet,Jane,47,0.3716
+Jane,Elizabeth,8,0.0
+Jane,Mr. Bennet,8,0.0
+Mr. Bennet,Elizabeth,29,-0.296
+Mr. Bennet,Jane,29,-0.296
+Elizabeth,Jane,47,0.811
+Elizabeth,Mr. Bennet,47,0.811
+Mr. Bennet,Elizabeth,33,-0.8408
+Mr. Bennet,Jane,33,-0.8408
+Elizabeth,Jane,14,0.3786
+Elizabeth,Mr. Bennet,14,0.3786
+Elizabeth,Jane,43,0.8614
+Jane,Elizabeth,64,0.8957
+Elizabeth,Jane,114,0.9552
+Jane,Elizabeth,73,0.8979
+Elizabeth,Jane,23,-0.5719
+Mr. Bennet,Elizabeth,4,0.3182
+Mr. Bennet,Jane,4,0.3182
+Elizabeth,Jane,10,0.0
+Elizabeth,Mr. Bennet,10,0.0
+Mr. Bennet,Elizabeth,7,0.3612
+Mr. Bennet,Jane,7,0.3612
+Mrs. Bennet,Mary,112,0.9778
+Mrs. Bennet,Elizabeth,112,0.9778
+Mrs. Bennet,Kitty,112,0.9778
+Mrs. Bennet,Jane,112,0.9778
+Jane,Mary,28,0.9095
+Jane,Elizabeth,28,0.9095
+Jane,Mrs. Bennet,28,0.9095
+Jane,Kitty,28,0.9095
+Mrs. Bennet,Mary,124,0.96
+Mrs. Bennet,Elizabeth,124,0.96
+Mrs. Bennet,Kitty,124,0.96
+Mrs. Bennet,Jane,124,0.96
+Mrs. Bennet,Mary,100,0.9724
+Mrs. Bennet,Elizabeth,100,0.9724
+Mrs. Bennet,Mrs. Hill,100,0.9724
+Mrs. Bennet,Kitty,100,0.9724
+Mrs. Bennet,Jane,100,0.9724
+Mrs. Bennet,Mr. Bennet,46,-0.3802
+Mr. Bennet,Mrs. Bennet,47,-0.4023
+Lydia,Mary,63,0.9667
+Lydia,Elizabeth,63,0.9667
+Lydia,Mrs. Bennet,63,0.9667
+Lydia,Kitty,63,0.9667
+Lydia,Mr. Bennet,63,0.9667
+Lydia,George Wickham,63,0.9667
+Lydia,Mary,76,0.9036
+Lydia,Elizabeth,76,0.9036
+Lydia,Mrs. Bennet,76,0.9036
+Lydia,Kitty,76,0.9036
+Lydia,Mr. Bennet,76,0.9036
+Lydia,George Wickham,76,0.9036
+Lydia,Mary,18,-0.3595
+Lydia,Elizabeth,18,-0.3595
+Lydia,Mrs. Bennet,18,-0.3595
+Lydia,Kitty,18,-0.3595
+Lydia,Mr. Bennet,18,-0.3595
+Lydia,George Wickham,18,-0.3595
+Lydia,Mary,59,0.7342
+Lydia,Elizabeth,59,0.7342
+Lydia,Mrs. Bennet,59,0.7342
+Lydia,Kitty,59,0.7342
+Lydia,Mr. Bennet,59,0.7342
+Lydia,George Wickham,59,0.7342
+Mrs. Bennet,Mary,29,0.4179
+Mrs. Bennet,Elizabeth,29,0.4179
+Mrs. Bennet,Lydia,29,0.4179
+Mrs. Bennet,Kitty,29,0.4179
+Mrs. Bennet,Jane,29,0.4179
+Mrs. Bennet,Mr. Bennet,29,0.4179
+Mrs. Bennet,George Wickham,29,0.4179
+Lydia,Mary,55,0.8356
+Lydia,Elizabeth,55,0.8356
+Lydia,Mrs. Bennet,55,0.8356
+Lydia,Kitty,55,0.8356
+Lydia,Mr. Bennet,55,0.8356
+Lydia,George Wickham,55,0.8356
+Mrs. Bennet,Mary,7,0.4199
+Mrs. Bennet,Elizabeth,7,0.4199
+Mrs. Bennet,Lydia,7,0.4199
+Mrs. Bennet,Kitty,7,0.4199
+Mrs. Bennet,Jane,7,0.4199
+Mrs. Bennet,Mr. Bennet,7,0.4199
+Mrs. Bennet,George Wickham,7,0.4199
+Lydia,Mary,32,-0.0516
+Lydia,Elizabeth,32,-0.0516
+Lydia,Mrs. Bennet,32,-0.0516
+Lydia,Kitty,32,-0.0516
+Lydia,Mr. Bennet,32,-0.0516
+Lydia,George Wickham,32,-0.0516
+Elizabeth,Mary,20,0.0797
+Elizabeth,Lydia,20,0.0797
+Elizabeth,Mrs. Bennet,20,0.0797
+Elizabeth,Kitty,20,0.0797
+Elizabeth,Mr. Bennet,20,0.0797
+Elizabeth,George Wickham,20,0.0797
+Lydia,Elizabeth,36,-0.2411
+Lydia,Jane,36,-0.2411
+Elizabeth,Jane,13,-0.296
+Elizabeth,Lydia,13,-0.296
+Lydia,Elizabeth,152,0.4026
+Lydia,Jane,152,0.4026
+Lydia,Elizabeth,196,-0.4622
+Lydia,Jane,196,-0.4622
+Elizabeth,Jane,2,0.0
+Elizabeth,Lydia,2,0.0
+Lydia,Elizabeth,42,0.9378
+Lydia,Jane,42,0.9378
+Jane,Elizabeth,21,-0.296
+Jane,Lydia,21,-0.296
+Elizabeth,Jane,8,0.126
+Elizabeth,Lydia,8,0.126
+Lydia,Elizabeth,18,0.1531
+Lydia,Jane,18,0.1531
+Elizabeth,Elizabeth,32,0.765
+George Wickham,Elizabeth,11,0.0516
+Elizabeth,George Wickham,14,-0.7269
+George Wickham,Elizabeth,18,0.8225
+Elizabeth,George Wickham,6,0.4215
+George Wickham,Elizabeth,33,0.4364
+George Wickham,Elizabeth,56,0.2484
+Elizabeth,George Wickham,3,0.4019
+George Wickham,Elizabeth,5,0.0
+Elizabeth,George Wickham,27,-0.0258
+George Wickham,Elizabeth,1,0.34
+George Wickham,Elizabeth,24,0.2263
+Elizabeth,George Wickham,23,-0.1531
+George Wickham,Elizabeth,20,0.0
+Elizabeth,George Wickham,7,0.4019
+George Wickham,Elizabeth,5,0.3612
+Elizabeth,George Wickham,2,0.0
+George Wickham,Elizabeth,38,0.8997
+Elizabeth,George Wickham,13,0.0
+George Wickham,Elizabeth,8,0.0
+Elizabeth,George Wickham,7,0.0
+George Wickham,Elizabeth,28,0.8306
+Elizabeth,George Wickham,7,0.4215
+George Wickham,Elizabeth,72,0.6229
+Elizabeth,George Wickham,25,0.0772
+George Wickham,Elizabeth,18,0.4019
+Elizabeth,George Wickham,42,-0.412
+George Wickham,Elizabeth,25,0.0
+Elizabeth,George Wickham,29,0.4404
+Mrs. Bennet,Mary,9,0.4389
+Mrs. Bennet,Elizabeth,9,0.4389
+Mrs. Bennet,Lydia,9,0.4389
+Mrs. Bennet,Kitty,9,0.4389
+Mrs. Bennet,Jane,9,0.4389
+Mrs. Bennet,Mr. Bennet,9,0.4389
+Mrs. Bennet,George Wickham,9,0.4389
+Lydia,Mary,12,0.0
+Lydia,Elizabeth,12,0.0
+Lydia,Mrs. Bennet,12,0.0
+Lydia,Kitty,12,0.0
+Lydia,Mr. Bennet,12,0.0
+Lydia,George Wickham,12,0.0
+Mrs. Bennet,Mary,7,0.4336
+Mrs. Bennet,Elizabeth,7,0.4336
+Mrs. Bennet,Lydia,7,0.4336
+Mrs. Bennet,Kitty,7,0.4336
+Mrs. Bennet,Jane,7,0.4336
+Mrs. Bennet,Mr. Bennet,7,0.4336
+Mrs. Bennet,George Wickham,7,0.4336
+Lydia,Mary,29,0.0
+Lydia,Elizabeth,29,0.0
+Lydia,Mrs. Bennet,29,0.0
+Lydia,Kitty,29,0.0
+Lydia,Mr. Bennet,29,0.0
+Lydia,George Wickham,29,0.0
+Mr. Bennet,Mary,39,0.9099
+Mr. Bennet,Elizabeth,39,0.9099
+Mr. Bennet,Mrs. Bennet,39,0.9099
+Mr. Bennet,Kitty,39,0.9099
+Mrs. Bennet,Elizabeth,20,0.7706
+Elizabeth,Mrs. Bennet,23,0.6908
+Mrs. Bennet,Elizabeth,38,-0.1346
+Mrs. Bennet,Elizabeth,10,0.4939
+Mrs. Bennet,Jane,10,0.4939
+Mrs. Bennet,Mrs. Philips,10,0.4939
+Mrs. Bennet,Elizabeth,79,0.9485
+Mrs. Bennet,Jane,79,0.9485
+Mrs. Bennet,Mrs. Philips,79,0.9485
+Mrs. Philips,Elizabeth,82,0.4939
+Mrs. Philips,Mrs. Bennet,82,0.4939
+Jane,Elizabeth,95,-0.3612
+Elizabeth,Elizabeth,29,-0.5562
+Mrs. Bennet,Mr. Bennet,16,0.3818
+Mr. Bennet,Mrs. Bennet,41,-0.3506
+Mr. Bennet,Mrs. Bennet,39,-0.34
+Mrs. Bennet,Mr. Bennet,57,0.3693
+Jane,Elizabeth,65,0.77
+Elizabeth,Jane,41,-0.34
+Kitty,Elizabeth,11,0.0
+Kitty,Mrs. Bennet,11,0.0
+Mrs. Bennet,Elizabeth,15,0.5994
+Mrs. Bennet,Kitty,15,0.5994
+Mrs. Bennet,Jane,15,0.5994
+Kitty,Elizabeth,22,0.7088
+Kitty,Mrs. Bennet,22,0.7088
+Mrs. Bennet,Elizabeth,36,0.4738
+Mrs. Bennet,Kitty,36,0.4738
+Mrs. Bennet,Jane,36,0.4738
+Elizabeth,Elizabeth,27,0.0
+Mrs. Bennet,Mr. Darcy,11,0.0
+Mrs. Bennet,Elizabeth,11,0.0
+Mrs. Bennet,Kitty,11,0.0
+Mrs. Bennet,Jane,11,0.0
+Mrs. Bennet,Mr. Bingley,11,0.0
+Mrs. Bennet,Mr. Darcy,97,-0.6693
+Mrs. Bennet,Elizabeth,97,-0.6693
+Mrs. Bennet,Kitty,97,-0.6693
+Mrs. Bennet,Jane,97,-0.6693
+Mrs. Bennet,Mr. Bingley,97,-0.6693
+Mrs. Bennet,Mr. Darcy,44,-0.1531
+Mrs. Bennet,Elizabeth,44,-0.1531
+Mrs. Bennet,Kitty,44,-0.1531
+Mrs. Bennet,Jane,44,-0.1531
+Mrs. Bennet,Mr. Bingley,44,-0.1531
+Mrs. Bennet,Mr. Darcy,95,0.9403
+Mrs. Bennet,Elizabeth,95,0.9403
+Mrs. Bennet,Kitty,95,0.9403
+Mrs. Bennet,Jane,95,0.9403
+Mrs. Bennet,Mr. Bingley,95,0.9403
+Mrs. Bennet,Mr. Darcy,49,0.8316
+Mrs. Bennet,Elizabeth,49,0.8316
+Mrs. Bennet,Kitty,49,0.8316
+Mrs. Bennet,Jane,49,0.8316
+Mrs. Bennet,Mr. Bingley,49,0.8316
+Elizabeth,Elizabeth,41,0.6988
+Mrs. Bennet,Mr. Darcy,57,0.2551
+Mrs. Bennet,Elizabeth,57,0.2551
+Mrs. Bennet,Kitty,57,0.2551
+Mrs. Bennet,Jane,57,0.2551
+Mrs. Bennet,Mr. Bingley,57,0.2551
+Elizabeth,Elizabeth,16,-0.5267
+Elizabeth,Elizabeth,48,0.2575
+Jane,Elizabeth,52,0.9275
+Elizabeth,Jane,8,0.5868
+Jane,Elizabeth,15,-0.6748
+Elizabeth,Jane,19,0.7109
+Elizabeth,Elizabeth,15,0.0
+Elizabeth,Elizabeth,52,-0.827
+Elizabeth,Mr. Darcy,6,0.0
+Mr. Darcy,Elizabeth,7,0.4019
+Elizabeth,Mr. Darcy,9,0.2885
+Mr. Darcy,Elizabeth,16,0.0
+Mrs. Bennet,Elizabeth,151,0.9782
+Mrs. Bennet,Jane,151,0.9782
+Jane,Elizabeth,26,0.8775
+Jane,Elizabeth,82,0.9892
+Elizabeth,Jane,18,-0.7907
+Jane,Elizabeth,10,-0.1759
+Elizabeth,Jane,5,0.0
+Jane,Elizabeth,15,0.5499
+Elizabeth,Jane,40,0.3653
+Mrs. Bennet,Mr. Bingley,11,0.7178
+Mrs. Bennet,Mr. Bingley,4,0.0
+Mrs. Bennet,Elizabeth,40,0.4767
+Mrs. Bennet,Sarah,40,0.4767
+Mrs. Bennet,Jane,40,0.4767
+Jane,Elizabeth,29,0.0
+Jane,Mrs. Bennet,29,0.0
+Jane,Sarah,29,0.0
+Mrs. Bennet,Elizabeth,21,0.5908
+Mrs. Bennet,Sarah,21,0.5908
+Mrs. Bennet,Jane,21,0.5908
+Kitty,Elizabeth,18,0.163
+Kitty,Mrs. Bennet,18,0.163
+Kitty,Mr. Bingley,18,0.163
+Mrs. Bennet,Elizabeth,9,0.0
+Mrs. Bennet,Kitty,9,0.0
+Mrs. Bennet,Jane,9,0.0
+Mrs. Bennet,Mr. Bingley,9,0.0
+Mrs. Bennet,Elizabeth,10,0.6705
+Mrs. Bennet,Kitty,10,0.6705
+Mrs. Bennet,Jane,10,0.6705
+Mrs. Bennet,Mr. Bingley,10,0.6705
+Mrs. Bennet,Elizabeth,9,0.4404
+Mrs. Bennet,Kitty,9,0.4404
+Mrs. Bennet,Jane,9,0.4404
+Mrs. Bennet,Mr. Bingley,9,0.4404
+Mrs. Bennet,Elizabeth,21,0.2263
+Mrs. Bennet,Kitty,21,0.2263
+Jane,Elizabeth,20,0.6467
+Jane,Elizabeth,62,0.9586
+Elizabeth,Elizabeth,24,0.8007
+Mr. Bingley,Elizabeth,4,0.0
+Elizabeth,Mr. Bingley,15,0.0
+Mr. Bennet,Mary,11,0.8016
+Mr. Bennet,Elizabeth,11,0.8016
+Mr. Bennet,Mrs. Bennet,11,0.8016
+Mr. Bennet,Kitty,11,0.8016
+Mr. Bennet,Mary,68,0.97
+Mr. Bennet,Elizabeth,68,0.97
+Mr. Bennet,Mrs. Bennet,68,0.97
+Mr. Bennet,Kitty,68,0.97
+Jane,Mary,15,0.4588
+Jane,Elizabeth,15,0.4588
+Jane,Mrs. Bennet,15,0.4588
+Jane,Kitty,15,0.4588
+Jane,Mr. Bennet,15,0.4588
+Mrs. Bennet,Mary,110,0.9807
+Mrs. Bennet,Elizabeth,110,0.9807
+Mrs. Bennet,Kitty,110,0.9807
+Mrs. Bennet,Jane,110,0.9807
+Mrs. Bennet,Mr. Bennet,110,0.9807
+Jane,Elizabeth,27,0.5633
+Elizabeth,Jane,11,-0.1154
+Jane,Elizabeth,76,0.9701
+Elizabeth,Jane,30,-0.126
+Jane,Elizabeth,33,0.2116
+Elizabeth,Jane,17,0.5418
+Jane,Elizabeth,42,0.9093
+Elizabeth,Jane,54,0.9373
+Lady Catherine De Bourgh,Elizabeth,14,0.5267
+Lady Catherine De Bourgh,Mrs. Bennet,14,0.5267
+Lady Catherine De Bourgh,Kitty,14,0.5267
+Lady Catherine De Bourgh,Elizabeth,9,0.0
+Lady Catherine De Bourgh,Mrs. Bennet,9,0.0
+Lady Catherine De Bourgh,Kitty,9,0.0
+Mrs. Bennet,Elizabeth,40,0.2144
+Mrs. Bennet,Lady Catherine De Bourgh,40,0.2144
+Lady Catherine De Bourgh,Elizabeth,7,0.0
+Lady Catherine De Bourgh,Mrs. Bennet,7,0.0
+Lady Catherine De Bourgh,Kitty,7,0.0
+Mrs. Bennet,Elizabeth,24,0.4767
+Mrs. Bennet,Lady Catherine De Bourgh,24,0.4767
+Lady Catherine De Bourgh,Elizabeth,18,-0.4005
+Lady Catherine De Bourgh,Mrs. Bennet,18,-0.4005
+Lady Catherine De Bourgh,Kitty,18,-0.4005
+Mrs. Bennet,Elizabeth,17,0.6705
+Mrs. Bennet,Lady Catherine De Bourgh,17,0.6705
+Lady Catherine De Bourgh,Elizabeth,10,0.624
+Lady Catherine De Bourgh,Mrs. Bennet,10,0.624
+Lady Catherine De Bourgh,Kitty,10,0.624
+Lady Catherine De Bourgh,Elizabeth,37,0.6486
+Lady Catherine De Bourgh,Mrs. Bennet,37,0.6486
+Lady Catherine De Bourgh,Kitty,37,0.6486
+Mrs. Bennet,Elizabeth,20,0.6705
+Mrs. Bennet,Lady Catherine De Bourgh,20,0.6705
+Elizabeth,Elizabeth,9,0.3612
+Lady Catherine De Bourgh,Elizabeth,28,-0.6249
+Elizabeth,Lady Catherine De Bourgh,21,0.296
+Lady Catherine De Bourgh,Elizabeth,150,0.8872
+Elizabeth,Lady Catherine De Bourgh,25,0.0258
+Lady Catherine De Bourgh,Elizabeth,11,-0.3182
+Elizabeth,Lady Catherine De Bourgh,25,0.0
+Lady Catherine De Bourgh,Elizabeth,29,-0.5158
+Elizabeth,Lady Catherine De Bourgh,6,0.0
+Lady Catherine De Bourgh,Elizabeth,12,-0.296
+Elizabeth,Lady Catherine De Bourgh,22,0.0762
+Lady Catherine De Bourgh,Elizabeth,24,0.296
+Elizabeth,Lady Catherine De Bourgh,8,0.0
+Lady Catherine De Bourgh,Elizabeth,48,-0.1154
+Elizabeth,Lady Catherine De Bourgh,12,0.0
+Lady Catherine De Bourgh,Elizabeth,38,0.6249
+Elizabeth,Lady Catherine De Bourgh,20,-0.3007
+Lady Catherine De Bourgh,Elizabeth,34,0.5556
+Elizabeth,Lady Catherine De Bourgh,21,-0.296
+Lady Catherine De Bourgh,Elizabeth,125,0.9513
+Elizabeth,Lady Catherine De Bourgh,96,-0.7943
+Lady Catherine De Bourgh,Elizabeth,63,0.7717
+Elizabeth,Lady Catherine De Bourgh,33,0.4767
+Lady Catherine De Bourgh,Elizabeth,27,-0.4486
+Lady Catherine De Bourgh,Elizabeth,50,-0.3612
+Elizabeth,Lady Catherine De Bourgh,18,-0.5418
+Lady Catherine De Bourgh,Elizabeth,119,0.875
+Elizabeth,Lady Catherine De Bourgh,27,0.0
+Lady Catherine De Bourgh,Elizabeth,25,0.5394
+Elizabeth,Lady Catherine De Bourgh,19,0.0
+Lady Catherine De Bourgh,Elizabeth,10,0.4019
+Elizabeth,Lady Catherine De Bourgh,3,0.0
+Lady Catherine De Bourgh,Elizabeth,12,0.6486
+Elizabeth,Lady Catherine De Bourgh,8,0.5423
+Lady Catherine De Bourgh,Elizabeth,43,0.7038
+Elizabeth,Lady Catherine De Bourgh,148,0.9102
+Lady Catherine De Bourgh,Elizabeth,102,-0.4682
+Elizabeth,Lady Catherine De Bourgh,24,-0.5106
+Lady Catherine De Bourgh,Elizabeth,33,-0.4184
+Elizabeth,Lady Catherine De Bourgh,12,0.0
+Lady Catherine De Bourgh,Elizabeth,7,0.1779
+Elizabeth,Lady Catherine De Bourgh,37,0.4767
+Lady Catherine De Bourgh,Elizabeth,41,0.3818
+Elizabeth,Lady Catherine De Bourgh,75,-0.7401
+Lady Catherine De Bourgh,Elizabeth,52,0.7098
+Lady Catherine De Bourgh,Elizabeth,25,-0.8347
+Elizabeth,Mrs. Bennet,8,0.0
+Mrs. Bennet,Elizabeth,59,0.5837
+Elizabeth,Elizabeth,63,0.8041
+Mr. Bennet,Elizabeth,12,0.0
+Mr. Bennet,Elizabeth,47,0.7841
+Mr. Bennet,Elizabeth,35,0.743
+Elizabeth,Mr. Bennet,10,0.0
+Mr. Bennet,Elizabeth,57,-0.128
+Mr. Bennet,Elizabeth,10,0.0
+Mr. Bennet,Elizabeth,14,0.0
+Mr. Bennet,Elizabeth,70,0.8034
+Mr. Bennet,Elizabeth,4,0.0
+Elizabeth,Mr. Bennet,5,0.6476
+Mr. Bennet,Elizabeth,4,0.0
+Mr. Bennet,Elizabeth,74,0.8248
+Elizabeth,Mr. Bennet,10,-0.5623
+Mr. Bennet,Elizabeth,93,0.3666
+Elizabeth,Mr. Darcy,82,0.8694
+Mr. Darcy,Elizabeth,34,-0.4336
+Elizabeth,Mr. Darcy,69,0.4511
+Mr. Darcy,Elizabeth,54,0.3153
+Mr. Darcy,Elizabeth,42,0.4939
+Mr. Darcy,Elizabeth,44,0.7845
+Elizabeth,Mr. Darcy,33,-0.4404
+Mr. Darcy,Elizabeth,43,-0.5994
+Elizabeth,Mr. Darcy,35,0.8641
+Mr. Darcy,Elizabeth,47,0.5608
+Mr. Darcy,Elizabeth,31,0.1779
+Elizabeth,Mr. Darcy,29,0.8319
+Mr. Darcy,Elizabeth,49,0.8159
+Elizabeth,Mr. Darcy,28,-0.3117
+Mr. Darcy,Elizabeth,75,-0.8823
+Elizabeth,Mr. Darcy,42,0.3711
+Mr. Darcy,Elizabeth,27,0.2732
+Elizabeth,Mr. Darcy,75,-0.1027
+Mr. Darcy,Elizabeth,250,0.9909
+Elizabeth,Mr. Darcy,8,0.0
+Mr. Darcy,Elizabeth,19,0.0
+Elizabeth,Mr. Darcy,36,-0.9094
+Mr. Darcy,Elizabeth,18,-0.8702
+Elizabeth,Mr. Darcy,21,-0.4767
+Mr. Darcy,Elizabeth,7,-0.4255
+Elizabeth,Mr. Darcy,37,-0.2982
+Mr. Darcy,Elizabeth,71,0.1027
+Elizabeth,Mr. Darcy,7,0.2263
+Mr. Darcy,Elizabeth,14,0.0
+Elizabeth,Mr. Darcy,13,0.0
+Mr. Darcy,Elizabeth,97,0.5859
+Elizabeth,Mr. Darcy,23,0.5994
+Mr. Darcy,Elizabeth,26,0.7269
+Elizabeth,Mr. Darcy,12,0.34
+Mr. Darcy,Elizabeth,104,-0.8734
+Jane,Elizabeth,10,0.3818
+Jane,Elizabeth,23,-0.2086
+Elizabeth,Jane,45,0.882
+Jane,Elizabeth,12,-0.4389
+Elizabeth,Jane,47,0.5148
+Jane,Elizabeth,38,0.9737
+Elizabeth,Jane,37,0.8276
+Jane,Elizabeth,53,0.9232
+Elizabeth,Jane,19,0.4574
+Jane,Elizabeth,4,0.0
+Elizabeth,Jane,20,0.5859
+Jane,Elizabeth,35,0.8161
+Elizabeth,Jane,30,0.7469
+Jane,Elizabeth,91,0.9249
+Mrs. Bennet,Elizabeth,73,0.7529
+Mrs. Bennet,Kitty,73,0.7529
+Mrs. Bennet,Jane,73,0.7529
+Mrs. Bennet,Mr. Bennet,73,0.7529
+Mr. Bingley,Mr. Darcy,17,-0.5994
+Mr. Bingley,Elizabeth,17,-0.5994
+Mr. Bingley,Mrs. Bennet,17,-0.5994
+Mr. Bingley,Kitty,17,-0.5994
+Mr. Bingley,Mr. Bennet,17,-0.5994
+Mrs. Bennet,Mr. Darcy,29,0.4215
+Mrs. Bennet,Elizabeth,29,0.4215
+Mrs. Bennet,Kitty,29,0.4215
+Mrs. Bennet,Jane,29,0.4215
+Mrs. Bennet,Mr. Bingley,29,0.4215
+Mrs. Bennet,Mr. Bennet,29,0.4215
+Mr. Bingley,Mr. Darcy,22,0.5642
+Mr. Bingley,Elizabeth,22,0.5642
+Mr. Bingley,Mrs. Bennet,22,0.5642
+Mr. Bingley,Kitty,22,0.5642
+Mr. Bingley,Mr. Bennet,22,0.5642
+Mrs. Bennet,Elizabeth,55,-0.6538
+Mr. Darcy,Elizabeth,10,0.0
+Mr. Bennet,Elizabeth,22,0.7585
+Mr. Bennet,Elizabeth,34,0.8955
+Elizabeth,Mr. Bennet,11,-0.0516
+Mr. Bennet,Elizabeth,25,0.6297
+Elizabeth,Mr. Bennet,40,0.9466
+Mr. Bennet,Elizabeth,127,0.9803
+Mr. Bennet,Elizabeth,31,0.6258
+Mr. Bennet,Elizabeth,93,0.6615
+Mr. Bennet,Elizabeth,18,0.0
+Mrs. Bennet,Elizabeth,110,0.9944
+Mrs. Bennet,Elizabeth,57,0.9749
+Mr. Bennet,Elizabeth,25,0.8109
+Elizabeth,Mr. Darcy,28,0.3527
+Mr. Darcy,Elizabeth,36,0.0
+Elizabeth,Mr. Darcy,47,0.1719
+Mr. Darcy,Elizabeth,8,0.3818
+Elizabeth,Mr. Darcy,143,0.4424
+Mr. Darcy,Elizabeth,16,0.2023
+Elizabeth,Mr. Darcy,107,0.4433
+Mr. Darcy,Elizabeth,11,-0.25
+Elizabeth,Mr. Darcy,4,-0.5023
+Mr. Darcy,Elizabeth,4,0.0
+Elizabeth,Mr. Darcy,12,0.0
+Mr. Darcy,Elizabeth,7,0.0
+Elizabeth,Mr. Darcy,99,0.968
+Mr. Darcy,Elizabeth,72,0.9751
+Elizabeth,Mr. Darcy,49,-0.2452
+Mr. Darcy,Elizabeth,58,0.7964
+Elizabeth,Mr. Darcy,15,0.4939
+Mr. Darcy,Elizabeth,31,0.336
+Elizabeth,Mr. Darcy,40,0.6921
