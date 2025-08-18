@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>프랑켄슈타인 디지털 바리오럼 에디션 (심화 예제)</title>
+        <author>Mary Shelley</author>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>디지털인문학의 길잡이</publisher>
+        <date>2024</date>
+        <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/"/>
+      </publicationStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter" n="1">
+        <head>Letter 1</head>
+        <opener>
+          <salute>To Mrs. Saville, England</salute>
+        </opener>
+
+        <p>
+          You may easily <app>
+            <lem wit="#f1831">imagine</lem>
+            <rdg wit="#f1818">conceive</rdg>
+          </app> that I was much gratified by the offered communication; yet I could not endure that he should renew his grief by a recital of his misfortunes.
+        </p>
+
+        <p>
+          I have no one near me, gentle yet courageous, possessed of a cultivated as well as of a capacious mind, whose tastes are like my own, to approve or amend my plans. 
+          How would such a friend repair the faults of your poor brother! I am too ardent in execution, and too impatient of difficulties.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

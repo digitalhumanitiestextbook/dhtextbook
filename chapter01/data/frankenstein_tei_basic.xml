@@ -1,0 +1,27 @@
+﻿<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>프랑켄슈타인 (판본 비교 및 인물 정보)</title>
+        <author>Mary Shelley</author>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Digital Edition Project</publisher>
+        <date>2024</date>
+      </publicationStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="scene" n="1">
+        <u who="#Victor">I must create life!</u>
+        <person xml:id="Victor">
+          <persName>Victor Frankenstein</persName>
+          <note type="variant">
+            1818년판: "I must create life!", 1831년판: "I must endeavor to create life."
+          </note>
+        </person>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,41 @@
+{
+  "edition": "Frankenstein Variorum Example",
+  "chapter_id": "C1",
+  "title": "Chapter 1",
+  "paragraphs": [
+    {
+      "p_id": "C1-P1",
+      "text": "I am by birth a Genevese, and my family is one of the most distinguished of that republic.",
+      "variants": []
+    },
+    {
+      "p_id": "C1-P2",
+      "text": "My parents had a daughter, who was nursed with me.",
+      "variants": []
+    },
+    {
+      "p_id": "C1-P3",
+      "text": "She was my playfellow, my companion, my sister, but even more — my cousin.",
+      "variants": [
+        {
+          "edition_year": 1818,
+          "text": "She was my playfellow, my companion, my sister, but even more — my cousin, the child of my aunt, and she was given to my parents.",
+          "change_type": "인물 설정 상세화",
+          "note": "1818년 판에서는 엘리자베스가 '숙모의 아이' 즉 '사촌'임을 명확히 하고, 부모에게 주어진 경위를 설명합니다."
+        },
+        {
+          "edition_year": 1831,
+          "text": "They cherished and brought her up as their own child. She was my playfellow, my companion, my sister.",
+          "change_type": "인물 설정 변경",
+          "note": "1831년 판에서는 '사촌' 관계를 생략하고, 부모가 그녀를 자신의 아이처럼 키웠다는 점을 강조하여 '고아'로서의 정체성을 부각합니다."
+        }
+      ],
+      "main_characters": [
+        {
+          "name": "Elizabeth Lavenza",
+          "role": "주인공의 동반자"
+        }
+      ]
+    }
+  ]
+}
