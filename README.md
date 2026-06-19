@@ -5,11 +5,11 @@
 『디지털인문학의 길잡이: 입문』은 다양한 디지털 도구와 방법론을 활용하여 인문 데이터를 분석하는 법을 소개합니다. 영문학 및 디지털인문학 전문가 11명이 공동 집필하였으며, 2026년 서울대학교출판문화원에서 e-book 형태로 출판되었습니다.
 (이 책에 대한 정보는 다음 링크를 참조: [추후 추가])
 
-**지은이** [이하람](https://cls.snu.ac.kr/snu__professor/%ec%9d%b4%ed%95%98%eb%9e%8c/) · 김희진 · 강수진 · [김병준](https://byungjunkim.com) · [김용수](https://jazzy-timpani-51c.notion.site/CV-720152021c234c4baa3d610be64cbc1d?source=copy_link) · [박언주](https://eonjoop.wixsite.com/eonjoopark) · 설연지 · 윤미선 · 장성현 · 전보미 · 정서현
+> **지은이:** [이하람](https://cls.snu.ac.kr/snu__professor/%ec%9d%b4%ed%95%98%eb%9e%8c/) · 김희진 · 강수진 · [김병준](https://byungjunkim.com) · [김용수](https://jazzy-timpani-51c.notion.site/CV-720152021c234c4baa3d610be64cbc1d?source=copy_link) · [박언주](https://eonjoop.wixsite.com/eonjoopark) · 설연지 · 윤미선 · 장성현 · 전보미 · 정서현
 
-코드·데이터 실습이 없는 장(4장)은 이 저장소에 포함되어 있지 않습니다.
+> 코드·데이터 실습이 없는 장(4장)은 이 저장소에 포함되어 있지 않습니다.
 
-실습 데이터는 모두 퍼블릭 도메인 텍스트를 가공한 것입니다. 각 데이터별 구체적 출처는 『디지털인문학의 길잡이: 입문』에서 확인할 수 있습니다.
+> 실습 데이터는 모두 퍼블릭 도메인 텍스트를 가공한 것입니다. 각 데이터별 구체적 출처는 『디지털인문학의 길잡이: 입문』에서 확인할 수 있습니다.
 
 ## 장별 데이터 안내
 
